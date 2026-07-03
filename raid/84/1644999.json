@@ -1,0 +1,37 @@
+{
+  "usn": 1644999,
+  "nickname": "沐雨而听风",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235406,
+          "combat": 476144
+        },
+        {
+          "slot": 2,
+          "tid": 422506,
+          "combat": 603478
+        },
+        {
+          "slot": 3,
+          "tid": 235502,
+          "combat": 446166
+        },
+        {
+          "slot": 4,
+          "tid": 451304,
+          "combat": 516223
+        },
+        {
+          "slot": 5,
+          "tid": 426204,
+          "combat": 567417
+        }
+      ]
+    }
+  ]
+}

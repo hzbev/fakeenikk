@@ -1,0 +1,37 @@
+{
+  "usn": 3632126,
+  "nickname": "须尽欢",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 442952
+        },
+        {
+          "slot": 2,
+          "tid": 584001,
+          "combat": 516000
+        },
+        {
+          "slot": 3,
+          "tid": 447105,
+          "combat": 698296
+        },
+        {
+          "slot": 4,
+          "tid": 451304,
+          "combat": 563767
+        },
+        {
+          "slot": 5,
+          "tid": 331503,
+          "combat": 466379
+        }
+      ]
+    }
+  ]
+}

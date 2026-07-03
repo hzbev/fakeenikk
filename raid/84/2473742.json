@@ -1,0 +1,37 @@
+{
+  "usn": 2473742,
+  "nickname": "셜이움",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422304,
+          "combat": 581454
+        },
+        {
+          "slot": 2,
+          "tid": 451306,
+          "combat": 592256
+        },
+        {
+          "slot": 3,
+          "tid": 426204,
+          "combat": 583199
+        },
+        {
+          "slot": 4,
+          "tid": 422509,
+          "combat": 658489
+        },
+        {
+          "slot": 5,
+          "tid": 447107,
+          "combat": 604572
+        }
+      ]
+    }
+  ]
+}

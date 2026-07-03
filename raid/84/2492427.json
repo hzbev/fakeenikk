@@ -1,0 +1,37 @@
+{
+  "usn": 2492427,
+  "nickname": "NCWXZNH",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 145011,
+          "combat": 639706
+        },
+        {
+          "slot": 2,
+          "tid": 331502,
+          "combat": 604009
+        },
+        {
+          "slot": 3,
+          "tid": 451302,
+          "combat": 617327
+        },
+        {
+          "slot": 4,
+          "tid": 447105,
+          "combat": 722207
+        },
+        {
+          "slot": 5,
+          "tid": 451111,
+          "combat": 812060
+        }
+      ]
+    }
+  ]
+}

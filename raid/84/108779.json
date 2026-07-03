@@ -1,0 +1,37 @@
+{
+  "usn": 108779,
+  "nickname": "GLVN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451306,
+          "combat": 540032
+        },
+        {
+          "slot": 2,
+          "tid": 422306,
+          "combat": 518090
+        },
+        {
+          "slot": 3,
+          "tid": 422506,
+          "combat": 616128
+        },
+        {
+          "slot": 4,
+          "tid": 426206,
+          "combat": 579556
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 593397
+        }
+      ]
+    }
+  ]
+}

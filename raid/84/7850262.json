@@ -1,0 +1,37 @@
+{
+  "usn": 7850262,
+  "nickname": "ELENOE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451311,
+          "combat": 870361
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 736511
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 960724
+        },
+        {
+          "slot": 4,
+          "tid": 426210,
+          "combat": 864116
+        },
+        {
+          "slot": 5,
+          "tid": 331605,
+          "combat": 703992
+        }
+      ]
+    }
+  ]
+}

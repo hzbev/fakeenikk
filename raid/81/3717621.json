@@ -1,0 +1,37 @@
+{
+  "usn": 3717621,
+  "nickname": "DDD",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301703,
+          "combat": 737225
+        },
+        {
+          "slot": 2,
+          "tid": 433008,
+          "combat": 712785
+        },
+        {
+          "slot": 3,
+          "tid": 447105,
+          "combat": 764752
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 845192
+        },
+        {
+          "slot": 5,
+          "tid": 150202,
+          "combat": 648688
+        }
+      ]
+    }
+  ]
+}

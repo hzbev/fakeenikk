@@ -1,0 +1,37 @@
+{
+  "usn": 565152,
+  "nickname": "MEGUMIN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203210,
+          "combat": 550308
+        },
+        {
+          "slot": 2,
+          "tid": 584001,
+          "combat": 504322
+        },
+        {
+          "slot": 3,
+          "tid": 447102,
+          "combat": 538596
+        },
+        {
+          "slot": 4,
+          "tid": 360001,
+          "combat": 474928
+        },
+        {
+          "slot": 5,
+          "tid": 451305,
+          "combat": 563450
+        }
+      ]
+    }
+  ]
+}

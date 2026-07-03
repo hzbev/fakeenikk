@@ -1,0 +1,37 @@
+{
+  "usn": 465857,
+  "nickname": "真名",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203206,
+          "combat": 470977
+        },
+        {
+          "slot": 2,
+          "tid": 422301,
+          "combat": 452028
+        },
+        {
+          "slot": 3,
+          "tid": 447106,
+          "combat": 603064
+        },
+        {
+          "slot": 4,
+          "tid": 217009,
+          "combat": 575117
+        },
+        {
+          "slot": 5,
+          "tid": 451302,
+          "combat": 550746
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 28959,
+  "nickname": "KSIMM",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301701,
+          "combat": 497187
+        },
+        {
+          "slot": 2,
+          "tid": 433007,
+          "combat": 500195
+        },
+        {
+          "slot": 3,
+          "tid": 447101,
+          "combat": 499220
+        },
+        {
+          "slot": 4,
+          "tid": 217008,
+          "combat": 504881
+        },
+        {
+          "slot": 5,
+          "tid": 116203,
+          "combat": 552443
+        }
+      ]
+    }
+  ]
+}

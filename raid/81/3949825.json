@@ -1,0 +1,37 @@
+{
+  "usn": 3949825,
+  "nickname": "クラリス",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 824670
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 946955
+        },
+        {
+          "slot": 3,
+          "tid": 447105,
+          "combat": 777678
+        },
+        {
+          "slot": 4,
+          "tid": 319404,
+          "combat": 723363
+        },
+        {
+          "slot": 5,
+          "tid": 451310,
+          "combat": 860911
+        }
+      ]
+    }
+  ]
+}

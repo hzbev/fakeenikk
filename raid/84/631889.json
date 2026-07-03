@@ -1,0 +1,37 @@
+{
+  "usn": 631889,
+  "nickname": "YOON",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235409,
+          "combat": 1159424
+        },
+        {
+          "slot": 2,
+          "tid": 140311,
+          "combat": 1258347
+        },
+        {
+          "slot": 3,
+          "tid": 235510,
+          "combat": 1174799
+        },
+        {
+          "slot": 4,
+          "tid": 352006,
+          "combat": 1195566
+        },
+        {
+          "slot": 5,
+          "tid": 201611,
+          "combat": 1354967
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 8630830,
+  "nickname": "カスミ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 858250
+        },
+        {
+          "slot": 2,
+          "tid": 235408,
+          "combat": 819679
+        },
+        {
+          "slot": 3,
+          "tid": 235505,
+          "combat": 799065
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 988108
+        },
+        {
+          "slot": 5,
+          "tid": 426205,
+          "combat": 905912
+        }
+      ]
+    }
+  ]
+}

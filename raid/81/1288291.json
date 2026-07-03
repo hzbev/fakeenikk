@@ -1,0 +1,37 @@
+{
+  "usn": 1288291,
+  "nickname": "アナザー",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 878381
+        },
+        {
+          "slot": 2,
+          "tid": 110211,
+          "combat": 858608
+        },
+        {
+          "slot": 3,
+          "tid": 422311,
+          "combat": 1018623
+        },
+        {
+          "slot": 4,
+          "tid": 327211,
+          "combat": 907550
+        },
+        {
+          "slot": 5,
+          "tid": 207511,
+          "combat": 926970
+        }
+      ]
+    }
+  ]
+}

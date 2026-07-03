@@ -1,0 +1,37 @@
+{
+  "usn": 12202175,
+  "nickname": "HAYATE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 331503,
+          "combat": 408208
+        },
+        {
+          "slot": 2,
+          "tid": 108205,
+          "combat": 486077
+        },
+        {
+          "slot": 3,
+          "tid": 110211,
+          "combat": 631930
+        },
+        {
+          "slot": 4,
+          "tid": 201604,
+          "combat": 504022
+        },
+        {
+          "slot": 5,
+          "tid": 235301,
+          "combat": 423254
+        }
+      ]
+    }
+  ]
+}

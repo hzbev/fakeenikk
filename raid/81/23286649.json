@@ -1,0 +1,37 @@
+{
+  "usn": 23286649,
+  "nickname": "AA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422302,
+          "combat": 644800
+        },
+        {
+          "slot": 2,
+          "tid": 447111,
+          "combat": 817307
+        },
+        {
+          "slot": 3,
+          "tid": 328111,
+          "combat": 812871
+        },
+        {
+          "slot": 4,
+          "tid": 201609,
+          "combat": 855965
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 561097
+        }
+      ]
+    }
+  ]
+}

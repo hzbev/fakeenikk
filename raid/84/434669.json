@@ -1,0 +1,37 @@
+{
+  "usn": 434669,
+  "nickname": "PLUTO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451303,
+          "combat": 568112
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 592252
+        },
+        {
+          "slot": 3,
+          "tid": 422509,
+          "combat": 673550
+        },
+        {
+          "slot": 4,
+          "tid": 426207,
+          "combat": 671962
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 664980
+        }
+      ]
+    }
+  ]
+}

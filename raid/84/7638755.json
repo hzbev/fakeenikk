@@ -1,0 +1,37 @@
+{
+  "usn": 7638755,
+  "nickname": "DRUIN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422301,
+          "combat": 439398
+        },
+        {
+          "slot": 2,
+          "tid": 422504,
+          "combat": 510995
+        },
+        {
+          "slot": 3,
+          "tid": 301704,
+          "combat": 494009
+        },
+        {
+          "slot": 4,
+          "tid": 426202,
+          "combat": 464082
+        },
+        {
+          "slot": 5,
+          "tid": 331602,
+          "combat": 359356
+        }
+      ]
+    }
+  ]
+}

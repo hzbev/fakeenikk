@@ -1,0 +1,37 @@
+{
+  "usn": 10867376,
+  "nickname": "小妮姬",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203207,
+          "combat": 442714
+        },
+        {
+          "slot": 2,
+          "tid": 422305,
+          "combat": 612505
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 637184
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 588459
+        },
+        {
+          "slot": 5,
+          "tid": 451302,
+          "combat": 637875
+        }
+      ]
+    }
+  ]
+}

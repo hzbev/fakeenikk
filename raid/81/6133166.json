@@ -1,0 +1,37 @@
+{
+  "usn": 6133166,
+  "nickname": "ユウス",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 689117
+        },
+        {
+          "slot": 2,
+          "tid": 433010,
+          "combat": 732224
+        },
+        {
+          "slot": 3,
+          "tid": 201610,
+          "combat": 783560
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 818684
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 768138
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 4696998,
+  "nickname": "MEGURU",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422302,
+          "combat": 436396
+        },
+        {
+          "slot": 2,
+          "tid": 328104,
+          "combat": 425139
+        },
+        {
+          "slot": 3,
+          "tid": 422502,
+          "combat": 454511
+        },
+        {
+          "slot": 4,
+          "tid": 426202,
+          "combat": 421644
+        },
+        {
+          "slot": 5,
+          "tid": 451304,
+          "combat": 456509
+        }
+      ]
+    }
+  ]
+}

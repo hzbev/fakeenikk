@@ -1,0 +1,37 @@
+{
+  "usn": 3509331,
+  "nickname": "红莲哥斯拉",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328106,
+          "combat": 390406
+        },
+        {
+          "slot": 2,
+          "tid": 451403,
+          "combat": 396180
+        },
+        {
+          "slot": 3,
+          "tid": 422506,
+          "combat": 442106
+        },
+        {
+          "slot": 4,
+          "tid": 447011,
+          "combat": 462899
+        },
+        {
+          "slot": 5,
+          "tid": 426011,
+          "combat": 379572
+        }
+      ]
+    }
+  ]
+}

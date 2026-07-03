@@ -1,0 +1,37 @@
+{
+  "usn": 48807,
+  "nickname": "KAKAROTO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119208,
+          "combat": 608976
+        },
+        {
+          "slot": 2,
+          "tid": 258303,
+          "combat": 497023
+        },
+        {
+          "slot": 3,
+          "tid": 423402,
+          "combat": 576458
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 634753
+        },
+        {
+          "slot": 5,
+          "tid": 343106,
+          "combat": 19715
+        }
+      ]
+    }
+  ]
+}

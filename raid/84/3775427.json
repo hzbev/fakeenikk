@@ -1,0 +1,37 @@
+{
+  "usn": 3775427,
+  "nickname": "KC",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203205,
+          "combat": 367070
+        },
+        {
+          "slot": 2,
+          "tid": 422306,
+          "combat": 576614
+        },
+        {
+          "slot": 3,
+          "tid": 447109,
+          "combat": 657121
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 630663
+        },
+        {
+          "slot": 5,
+          "tid": 451304,
+          "combat": 547659
+        }
+      ]
+    }
+  ]
+}

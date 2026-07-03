@@ -1,0 +1,37 @@
+{
+  "usn": 5040450,
+  "nickname": "ETHER",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451302,
+          "combat": 465178
+        },
+        {
+          "slot": 2,
+          "tid": 422303,
+          "combat": 529479
+        },
+        {
+          "slot": 3,
+          "tid": 426204,
+          "combat": 542488
+        },
+        {
+          "slot": 4,
+          "tid": 422504,
+          "combat": 519188
+        },
+        {
+          "slot": 5,
+          "tid": 331603,
+          "combat": 510529
+        }
+      ]
+    }
+  ]
+}

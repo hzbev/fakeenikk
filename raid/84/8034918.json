@@ -1,0 +1,37 @@
+{
+  "usn": 8034918,
+  "nickname": "REIKO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422302,
+          "combat": 333163
+        },
+        {
+          "slot": 2,
+          "tid": 203206,
+          "combat": 299000
+        },
+        {
+          "slot": 3,
+          "tid": 451303,
+          "combat": 393393
+        },
+        {
+          "slot": 4,
+          "tid": 447111,
+          "combat": 466458
+        },
+        {
+          "slot": 5,
+          "tid": 217008,
+          "combat": 377489
+        }
+      ]
+    }
+  ]
+}

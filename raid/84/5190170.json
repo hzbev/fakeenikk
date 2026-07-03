@@ -1,0 +1,37 @@
+{
+  "usn": 5190170,
+  "nickname": "REGULUS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 360001,
+          "combat": 459347
+        },
+        {
+          "slot": 2,
+          "tid": 447102,
+          "combat": 518422
+        },
+        {
+          "slot": 3,
+          "tid": 360103,
+          "combat": 441578
+        },
+        {
+          "slot": 4,
+          "tid": 101802,
+          "combat": 494764
+        },
+        {
+          "slot": 5,
+          "tid": 301704,
+          "combat": 556799
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 423859,
+  "nickname": "FATE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201610,
+          "combat": 622637
+        },
+        {
+          "slot": 2,
+          "tid": 433008,
+          "combat": 510526
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 570992
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 504251
+        },
+        {
+          "slot": 5,
+          "tid": 145011,
+          "combat": 373427
+        }
+      ]
+    }
+  ]
+}

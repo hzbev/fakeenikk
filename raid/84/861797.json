@@ -1,0 +1,37 @@
+{
+  "usn": 861797,
+  "nickname": "TEAZZEN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422302,
+          "combat": 480981
+        },
+        {
+          "slot": 2,
+          "tid": 422509,
+          "combat": 626302
+        },
+        {
+          "slot": 3,
+          "tid": 301704,
+          "combat": 523474
+        },
+        {
+          "slot": 4,
+          "tid": 426206,
+          "combat": 582898
+        },
+        {
+          "slot": 5,
+          "tid": 331601,
+          "combat": 450678
+        }
+      ]
+    }
+  ]
+}

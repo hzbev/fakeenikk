@@ -1,0 +1,37 @@
+{
+  "usn": 44976526,
+  "nickname": "SIRO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 905789
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 802005
+        },
+        {
+          "slot": 3,
+          "tid": 201611,
+          "combat": 1053841
+        },
+        {
+          "slot": 4,
+          "tid": 451111,
+          "combat": 1052558
+        },
+        {
+          "slot": 5,
+          "tid": 235301,
+          "combat": 437768
+        }
+      ]
+    }
+  ]
+}

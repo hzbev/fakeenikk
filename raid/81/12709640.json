@@ -1,0 +1,37 @@
+{
+  "usn": 12709640,
+  "nickname": "PEI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 1128577
+        },
+        {
+          "slot": 2,
+          "tid": 258311,
+          "combat": 1117391
+        },
+        {
+          "slot": 3,
+          "tid": 423411,
+          "combat": 1292621
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 1322990
+        },
+        {
+          "slot": 5,
+          "tid": 207404,
+          "combat": 914148
+        }
+      ]
+    }
+  ]
+}

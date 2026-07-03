@@ -1,0 +1,37 @@
+{
+  "usn": 4217562,
+  "nickname": "GRAD",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433006,
+          "combat": 549891
+        },
+        {
+          "slot": 2,
+          "tid": 301704,
+          "combat": 588550
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 658209
+        },
+        {
+          "slot": 4,
+          "tid": 426204,
+          "combat": 583885
+        },
+        {
+          "slot": 5,
+          "tid": 150004,
+          "combat": 264005
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 5277689,
+  "nickname": "WYZGUY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301704,
+          "combat": 567615
+        },
+        {
+          "slot": 2,
+          "tid": 352004,
+          "combat": 468416
+        },
+        {
+          "slot": 3,
+          "tid": 235406,
+          "combat": 542778
+        },
+        {
+          "slot": 4,
+          "tid": 235506,
+          "combat": 507933
+        },
+        {
+          "slot": 5,
+          "tid": 207504,
+          "combat": 558523
+        }
+      ]
+    }
+  ]
+}

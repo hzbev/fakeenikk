@@ -1,0 +1,37 @@
+{
+  "usn": 339828,
+  "nickname": "OTOREZ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 529784
+        },
+        {
+          "slot": 2,
+          "tid": 433006,
+          "combat": 495480
+        },
+        {
+          "slot": 3,
+          "tid": 426205,
+          "combat": 543763
+        },
+        {
+          "slot": 4,
+          "tid": 422502,
+          "combat": 515729
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 574304
+        }
+      ]
+    }
+  ]
+}

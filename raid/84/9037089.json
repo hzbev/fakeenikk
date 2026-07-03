@@ -1,0 +1,37 @@
+{
+  "usn": 9037089,
+  "nickname": "AFFEKS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301704,
+          "combat": 413982
+        },
+        {
+          "slot": 2,
+          "tid": 235410,
+          "combat": 372995
+        },
+        {
+          "slot": 3,
+          "tid": 235505,
+          "combat": 385760
+        },
+        {
+          "slot": 4,
+          "tid": 422507,
+          "combat": 439489
+        },
+        {
+          "slot": 5,
+          "tid": 426204,
+          "combat": 397733
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 25779598,
+  "nickname": "NK",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 1658625
+        },
+        {
+          "slot": 2,
+          "tid": 426211,
+          "combat": 1588502
+        },
+        {
+          "slot": 3,
+          "tid": 235511,
+          "combat": 1388008
+        },
+        {
+          "slot": 4,
+          "tid": 235411,
+          "combat": 1483370
+        },
+        {
+          "slot": 5,
+          "tid": 422511,
+          "combat": 1658666
+        }
+      ]
+    }
+  ]
+}

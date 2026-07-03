@@ -1,0 +1,37 @@
+{
+  "usn": 12085589,
+  "nickname": "皇族骑士",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 873715
+        },
+        {
+          "slot": 2,
+          "tid": 108211,
+          "combat": 827332
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 946329
+        },
+        {
+          "slot": 4,
+          "tid": 319404,
+          "combat": 750392
+        },
+        {
+          "slot": 5,
+          "tid": 150204,
+          "combat": 813264
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 24139,
+  "nickname": "カラス",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451309,
+          "combat": 1244039
+        },
+        {
+          "slot": 2,
+          "tid": 422309,
+          "combat": 1283286
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 1365843
+        },
+        {
+          "slot": 4,
+          "tid": 426210,
+          "combat": 1303885
+        },
+        {
+          "slot": 5,
+          "tid": 331606,
+          "combat": 947231
+        }
+      ]
+    }
+  ]
+}

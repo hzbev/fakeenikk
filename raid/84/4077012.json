@@ -1,0 +1,37 @@
+{
+  "usn": 4077012,
+  "nickname": "HIKIGAYA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422301,
+          "combat": 441051
+        },
+        {
+          "slot": 2,
+          "tid": 422506,
+          "combat": 530695
+        },
+        {
+          "slot": 3,
+          "tid": 426201,
+          "combat": 473205
+        },
+        {
+          "slot": 4,
+          "tid": 301702,
+          "combat": 468128
+        },
+        {
+          "slot": 5,
+          "tid": 331602,
+          "combat": 388175
+        }
+      ]
+    }
+  ]
+}

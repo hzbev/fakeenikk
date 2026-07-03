@@ -1,0 +1,37 @@
+{
+  "usn": 149292,
+  "nickname": "四季夏目",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328111,
+          "combat": 573698
+        },
+        {
+          "slot": 2,
+          "tid": 235406,
+          "combat": 531620
+        },
+        {
+          "slot": 3,
+          "tid": 101804,
+          "combat": 561797
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 485120
+        },
+        {
+          "slot": 5,
+          "tid": 235508,
+          "combat": 485718
+        }
+      ]
+    }
+  ]
+}

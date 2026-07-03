@@ -1,0 +1,37 @@
+{
+  "usn": 991616,
+  "nickname": "アンソニー",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422304,
+          "combat": 659147
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 755662
+        },
+        {
+          "slot": 3,
+          "tid": 451306,
+          "combat": 718757
+        },
+        {
+          "slot": 4,
+          "tid": 426208,
+          "combat": 704201
+        },
+        {
+          "slot": 5,
+          "tid": 331604,
+          "combat": 535962
+        }
+      ]
+    }
+  ]
+}

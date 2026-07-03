@@ -1,0 +1,37 @@
+{
+  "usn": 76215469,
+  "nickname": "ひらやま",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301709,
+          "combat": 847753
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 769493
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 892445
+        },
+        {
+          "slot": 4,
+          "tid": 426209,
+          "combat": 906327
+        },
+        {
+          "slot": 5,
+          "tid": 331611,
+          "combat": 779009
+        }
+      ]
+    }
+  ]
+}

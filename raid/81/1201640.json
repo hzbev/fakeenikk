@@ -1,0 +1,37 @@
+{
+  "usn": 1201640,
+  "nickname": "麦德",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 698748
+        },
+        {
+          "slot": 2,
+          "tid": 451307,
+          "combat": 676061
+        },
+        {
+          "slot": 3,
+          "tid": 201606,
+          "combat": 707580
+        },
+        {
+          "slot": 4,
+          "tid": 207501,
+          "combat": 585074
+        },
+        {
+          "slot": 5,
+          "tid": 235405,
+          "combat": 524369
+        }
+      ]
+    }
+  ]
+}

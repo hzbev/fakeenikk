@@ -1,0 +1,37 @@
+{
+  "usn": 435065,
+  "nickname": "OVERMIND",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235411,
+          "combat": 634430
+        },
+        {
+          "slot": 2,
+          "tid": 451311,
+          "combat": 668378
+        },
+        {
+          "slot": 3,
+          "tid": 101806,
+          "combat": 588909
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 747503
+        },
+        {
+          "slot": 5,
+          "tid": 235511,
+          "combat": 655436
+        }
+      ]
+    }
+  ]
+}

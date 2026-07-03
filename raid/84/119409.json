@@ -1,0 +1,37 @@
+{
+  "usn": 119409,
+  "nickname": "GUST",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119203,
+          "combat": 624070
+        },
+        {
+          "slot": 2,
+          "tid": 207301,
+          "combat": 550954
+        },
+        {
+          "slot": 3,
+          "tid": 423404,
+          "combat": 654505
+        },
+        {
+          "slot": 4,
+          "tid": 110110,
+          "combat": 690906
+        },
+        {
+          "slot": 5,
+          "tid": 207402,
+          "combat": 526491
+        }
+      ]
+    }
+  ]
+}

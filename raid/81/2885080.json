@@ -1,0 +1,37 @@
+{
+  "usn": 2885080,
+  "nickname": "美瑠",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 664820
+        },
+        {
+          "slot": 2,
+          "tid": 422303,
+          "combat": 565630
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 625524
+        },
+        {
+          "slot": 4,
+          "tid": 583511,
+          "combat": 650142
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 648492
+        }
+      ]
+    }
+  ]
+}

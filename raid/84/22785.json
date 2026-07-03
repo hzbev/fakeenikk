@@ -1,0 +1,37 @@
+{
+  "usn": 22785,
+  "nickname": "MENDO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119205,
+          "combat": 568722
+        },
+        {
+          "slot": 2,
+          "tid": 423402,
+          "combat": 619194
+        },
+        {
+          "slot": 3,
+          "tid": 258301,
+          "combat": 511753
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 641338
+        },
+        {
+          "slot": 5,
+          "tid": 207402,
+          "combat": 421340
+        }
+      ]
+    }
+  ]
+}

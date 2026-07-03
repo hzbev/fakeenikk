@@ -1,0 +1,37 @@
+{
+  "usn": 6591985,
+  "nickname": "月厨APH桑",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 343110,
+          "combat": 311567
+        },
+        {
+          "slot": 2,
+          "tid": 426201,
+          "combat": 446300
+        },
+        {
+          "slot": 3,
+          "tid": 235503,
+          "combat": 411884
+        },
+        {
+          "slot": 4,
+          "tid": 422509,
+          "combat": 566597
+        },
+        {
+          "slot": 5,
+          "tid": 235404,
+          "combat": 407862
+        }
+      ]
+    }
+  ]
+}

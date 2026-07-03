@@ -1,0 +1,37 @@
+{
+  "usn": 5347494,
+  "nickname": "勒恩尔LORD",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433010,
+          "combat": 809068
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 1051719
+        },
+        {
+          "slot": 3,
+          "tid": 301708,
+          "combat": 889115
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 934230
+        },
+        {
+          "slot": 5,
+          "tid": 235405,
+          "combat": 716668
+        }
+      ]
+    }
+  ]
+}

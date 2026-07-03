@@ -1,0 +1,37 @@
+{
+  "usn": 1200353,
+  "nickname": "MITHESH7",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 326758278,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201606,
+          "combat": 691083
+        },
+        {
+          "slot": 2,
+          "tid": 433002,
+          "combat": 610609
+        },
+        {
+          "slot": 3,
+          "tid": 447011,
+          "combat": 714195
+        },
+        {
+          "slot": 4,
+          "tid": 451303,
+          "combat": 641447
+        },
+        {
+          "slot": 5,
+          "tid": 150008,
+          "combat": 381161
+        }
+      ]
+    }
+  ]
+}

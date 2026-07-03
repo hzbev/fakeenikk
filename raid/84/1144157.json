@@ -1,0 +1,37 @@
+{
+  "usn": 1144157,
+  "nickname": "LILITH",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 557624
+        },
+        {
+          "slot": 2,
+          "tid": 258301,
+          "combat": 347127
+        },
+        {
+          "slot": 3,
+          "tid": 423401,
+          "combat": 522776
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 549578
+        },
+        {
+          "slot": 5,
+          "tid": 207401,
+          "combat": 376206
+        }
+      ]
+    }
+  ]
+}

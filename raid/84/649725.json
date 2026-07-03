@@ -1,0 +1,37 @@
+{
+  "usn": 649725,
+  "nickname": "VODKA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422305,
+          "combat": 677801
+        },
+        {
+          "slot": 2,
+          "tid": 451307,
+          "combat": 727905
+        },
+        {
+          "slot": 3,
+          "tid": 426207,
+          "combat": 771160
+        },
+        {
+          "slot": 4,
+          "tid": 422507,
+          "combat": 740759
+        },
+        {
+          "slot": 5,
+          "tid": 331603,
+          "combat": 530884
+        }
+      ]
+    }
+  ]
+}

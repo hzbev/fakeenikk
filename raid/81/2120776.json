@@ -1,0 +1,37 @@
+{
+  "usn": 2120776,
+  "nickname": "RAIKAA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203207,
+          "combat": 385402
+        },
+        {
+          "slot": 2,
+          "tid": 433005,
+          "combat": 461836
+        },
+        {
+          "slot": 3,
+          "tid": 447102,
+          "combat": 524737
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 615231
+        },
+        {
+          "slot": 5,
+          "tid": 451304,
+          "combat": 529010
+        }
+      ]
+    }
+  ]
+}

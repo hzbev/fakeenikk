@@ -1,0 +1,37 @@
+{
+  "usn": 2238722,
+  "nickname": "天意如此",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433010,
+          "combat": 560326
+        },
+        {
+          "slot": 2,
+          "tid": 301710,
+          "combat": 651808
+        },
+        {
+          "slot": 3,
+          "tid": 201607,
+          "combat": 681625
+        },
+        {
+          "slot": 4,
+          "tid": 447105,
+          "combat": 632589
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 615125
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 7553294,
+  "nickname": "RAIN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 971846
+        },
+        {
+          "slot": 2,
+          "tid": 235411,
+          "combat": 953759
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 1223531
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 1243898
+        },
+        {
+          "slot": 5,
+          "tid": 235511,
+          "combat": 1045100
+        }
+      ]
+    }
+  ]
+}

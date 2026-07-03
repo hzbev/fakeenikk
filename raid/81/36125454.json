@@ -1,0 +1,37 @@
+{
+  "usn": 36125454,
+  "nickname": "エイメイ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239008,
+          "combat": 543667
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 865001
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 976963
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 870303
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 905932
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 17224127,
+  "nickname": "北牧宸星",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239007,
+          "combat": 421039
+        },
+        {
+          "slot": 2,
+          "tid": 360001,
+          "combat": 19374
+        },
+        {
+          "slot": 3,
+          "tid": 447105,
+          "combat": 607323
+        },
+        {
+          "slot": 4,
+          "tid": 584001,
+          "combat": 492743
+        },
+        {
+          "slot": 5,
+          "tid": 451301,
+          "combat": 515822
+        }
+      ]
+    }
+  ]
+}

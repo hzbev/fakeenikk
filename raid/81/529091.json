@@ -1,0 +1,37 @@
+{
+  "usn": 529091,
+  "nickname": "しいな",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422309,
+          "combat": 771990
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 952562
+        },
+        {
+          "slot": 3,
+          "tid": 451310,
+          "combat": 891759
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 1004341
+        },
+        {
+          "slot": 5,
+          "tid": 331605,
+          "combat": 692221
+        }
+      ]
+    }
+  ]
+}

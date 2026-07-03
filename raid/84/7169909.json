@@ -1,0 +1,37 @@
+{
+  "usn": 7169909,
+  "nickname": "ATARAXIA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235410,
+          "combat": 690455
+        },
+        {
+          "slot": 2,
+          "tid": 101804,
+          "combat": 684808
+        },
+        {
+          "slot": 3,
+          "tid": 235511,
+          "combat": 780982
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 810546
+        },
+        {
+          "slot": 5,
+          "tid": 301709,
+          "combat": 827977
+        }
+      ]
+    }
+  ]
+}

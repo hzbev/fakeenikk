@@ -1,0 +1,37 @@
+{
+  "usn": 1417167,
+  "nickname": "ほし",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 1170274
+        },
+        {
+          "slot": 2,
+          "tid": 352006,
+          "combat": 856095
+        },
+        {
+          "slot": 3,
+          "tid": 235406,
+          "combat": 802219
+        },
+        {
+          "slot": 4,
+          "tid": 235507,
+          "combat": 751991
+        },
+        {
+          "slot": 5,
+          "tid": 207504,
+          "combat": 891321
+        }
+      ]
+    }
+  ]
+}

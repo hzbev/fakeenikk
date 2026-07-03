@@ -1,0 +1,578 @@
+[
+  {
+    "name": "별이",
+    "area": 83,
+    "id": "933",
+    "avg_sync_level": 916
+  },
+  {
+    "name": "니삭스",
+    "area": 83,
+    "id": "5690",
+    "avg_sync_level": 876
+  },
+  {
+    "name": "릴리스",
+    "area": 83,
+    "id": "6343",
+    "avg_sync_level": 884
+  },
+  {
+    "name": "HERETICS",
+    "area": 83,
+    "id": "16515",
+    "avg_sync_level": 843
+  },
+  {
+    "name": "猫爬架",
+    "area": 83,
+    "id": "8477",
+    "avg_sync_level": 821
+  },
+  {
+    "name": "777C",
+    "area": 83,
+    "id": "2348",
+    "avg_sync_level": 825
+  },
+  {
+    "name": "오나홀",
+    "area": 83,
+    "id": "8254",
+    "avg_sync_level": 808
+  },
+  {
+    "name": "전국꿍디협회",
+    "area": 83,
+    "id": "4253",
+    "avg_sync_level": 806
+  },
+  {
+    "name": "오리둥절",
+    "area": 83,
+    "id": "1318",
+    "avg_sync_level": 774
+  },
+  {
+    "name": "몰루",
+    "area": 83,
+    "id": "4262",
+    "avg_sync_level": 802
+  },
+  {
+    "name": "커D단",
+    "area": 83,
+    "id": "22501",
+    "avg_sync_level": 788
+  },
+  {
+    "name": "TYRANT",
+    "area": 83,
+    "id": "18514",
+    "avg_sync_level": 772
+  },
+  {
+    "name": "달이",
+    "area": 83,
+    "id": "11213",
+    "avg_sync_level": 792
+  },
+  {
+    "name": "皇家霍洛威学院",
+    "area": 83,
+    "id": "3646",
+    "avg_sync_level": 755
+  },
+  {
+    "name": "FIN",
+    "area": 83,
+    "id": "104",
+    "avg_sync_level": 719
+  },
+  {
+    "name": "도로시",
+    "area": 83,
+    "id": "12098",
+    "avg_sync_level": 762
+  },
+  {
+    "name": "윾돌이",
+    "area": 83,
+    "id": "2291",
+    "avg_sync_level": 767
+  },
+  {
+    "name": "스페란도TV",
+    "area": 83,
+    "id": "1916",
+    "avg_sync_level": 749
+  },
+  {
+    "name": "달님반",
+    "area": 83,
+    "id": "145",
+    "avg_sync_level": 782
+  },
+  {
+    "name": "시그마",
+    "area": 83,
+    "id": "3766",
+    "avg_sync_level": 736
+  },
+  {
+    "name": "OMEN",
+    "area": 81,
+    "id": "6793",
+    "avg_sync_level": 999
+  },
+  {
+    "name": "吉伊卡哇",
+    "area": 81,
+    "id": "120",
+    "avg_sync_level": 932
+  },
+  {
+    "name": "D1VISION",
+    "area": 81,
+    "id": "13437",
+    "avg_sync_level": 943
+  },
+  {
+    "name": "ペンタゴン",
+    "area": 81,
+    "id": "6208",
+    "avg_sync_level": 909
+  },
+  {
+    "name": "テクニカルなニケ",
+    "area": 81,
+    "id": "30167",
+    "avg_sync_level": 913
+  },
+  {
+    "name": "72NDS",
+    "area": 81,
+    "id": "64990",
+    "avg_sync_level": 886
+  },
+  {
+    "name": "REBELLI0",
+    "area": 81,
+    "id": "122748",
+    "avg_sync_level": 887
+  },
+  {
+    "name": "SPLINTER",
+    "area": 81,
+    "id": "124834",
+    "avg_sync_level": 833
+  },
+  {
+    "name": "尻の女神",
+    "area": 81,
+    "id": "3489",
+    "avg_sync_level": 828
+  },
+  {
+    "name": "伊蕾娜的茶会",
+    "area": 81,
+    "id": "52010",
+    "avg_sync_level": 837
+  },
+  {
+    "name": "ふともも大好き",
+    "area": 81,
+    "id": "6378",
+    "avg_sync_level": 867
+  },
+  {
+    "name": "ねこ同盟",
+    "area": 81,
+    "id": "19608",
+    "avg_sync_level": 844
+  },
+  {
+    "name": "エーデルリッター",
+    "area": 81,
+    "id": "15618",
+    "avg_sync_level": 834
+  },
+  {
+    "name": "てんきあめ",
+    "area": 81,
+    "id": "21704",
+    "avg_sync_level": 827
+  },
+  {
+    "name": "OVERCOME",
+    "area": 81,
+    "id": "83003",
+    "avg_sync_level": 808
+  },
+  {
+    "name": "スレギルド極",
+    "area": 81,
+    "id": "12089",
+    "avg_sync_level": 815
+  },
+  {
+    "name": "白色極地",
+    "area": 81,
+    "id": "33",
+    "avg_sync_level": 787
+  },
+  {
+    "name": "嗔的万事屋",
+    "area": 81,
+    "id": "88888",
+    "avg_sync_level": 807
+  },
+  {
+    "name": "カフェ準備中",
+    "area": 81,
+    "id": "92246",
+    "avg_sync_level": 791
+  },
+  {
+    "name": "赤色狂潮",
+    "area": 81,
+    "id": "32228",
+    "avg_sync_level": 780
+  },
+  {
+    "name": "MIDNIGHT",
+    "area": 84,
+    "id": "1663",
+    "avg_sync_level": 850
+  },
+  {
+    "name": "WARCRAFT",
+    "area": 84,
+    "id": "11158",
+    "avg_sync_level": 801
+  },
+  {
+    "name": "噩梦之巅",
+    "area": 84,
+    "id": "477",
+    "avg_sync_level": 823
+  },
+  {
+    "name": "VOID",
+    "area": 84,
+    "id": "178",
+    "avg_sync_level": 766
+  },
+  {
+    "name": "格里芬",
+    "area": 84,
+    "id": "931",
+    "avg_sync_level": 777
+  },
+  {
+    "name": "CRESCENT",
+    "area": 84,
+    "id": "218",
+    "avg_sync_level": 749
+  },
+  {
+    "name": "SOLACE",
+    "area": 84,
+    "id": "31043",
+    "avg_sync_level": 761
+  },
+  {
+    "name": "AVARITIA",
+    "area": 84,
+    "id": "127",
+    "avg_sync_level": 752
+  },
+  {
+    "name": "NIKKUNNY",
+    "area": 84,
+    "id": "13395",
+    "avg_sync_level": 753
+  },
+  {
+    "name": "MUTEKI",
+    "area": 84,
+    "id": "19496",
+    "avg_sync_level": 741
+  },
+  {
+    "name": "JIGGLE",
+    "area": 84,
+    "id": "908",
+    "avg_sync_level": 738
+  },
+  {
+    "name": "帝國華撃団",
+    "area": 84,
+    "id": "18742",
+    "avg_sync_level": 759
+  },
+  {
+    "name": "东方红魔馆",
+    "area": 84,
+    "id": "785",
+    "avg_sync_level": 736
+  },
+  {
+    "name": "86妮姬夺还部队",
+    "area": 84,
+    "id": "289",
+    "avg_sync_level": 716
+  },
+  {
+    "name": "SUMIRE",
+    "area": 84,
+    "id": "12181",
+    "avg_sync_level": 712
+  },
+  {
+    "name": "NEMO",
+    "area": 84,
+    "id": "11655",
+    "avg_sync_level": 728
+  },
+  {
+    "name": "清晰的边界",
+    "area": 84,
+    "id": "23439",
+    "avg_sync_level": 721
+  },
+  {
+    "name": "SHARAKU",
+    "area": 84,
+    "id": "15446",
+    "avg_sync_level": 710
+  },
+  {
+    "name": "SOFTIES",
+    "area": 84,
+    "id": "4737",
+    "avg_sync_level": 713
+  },
+  {
+    "name": "孤独な巡礼",
+    "area": 84,
+    "id": "575",
+    "avg_sync_level": 712
+  },
+  {
+    "name": "SCARLET",
+    "area": 82,
+    "id": "4",
+    "avg_sync_level": 964
+  },
+  {
+    "name": "極楽浄土",
+    "area": 82,
+    "id": "969",
+    "avg_sync_level": 908
+  },
+  {
+    "name": "SIN",
+    "area": 82,
+    "id": "3",
+    "avg_sync_level": 827
+  },
+  {
+    "name": "AZURESKY",
+    "area": 82,
+    "id": "163",
+    "avg_sync_level": 853
+  },
+  {
+    "name": "SKYFALL",
+    "area": 82,
+    "id": "7",
+    "avg_sync_level": 802
+  },
+  {
+    "name": "SNOWHITE",
+    "area": 82,
+    "id": "6590",
+    "avg_sync_level": 799
+  },
+  {
+    "name": "PIZZAPIE",
+    "area": 82,
+    "id": "10208",
+    "avg_sync_level": 788
+  },
+  {
+    "name": "WRATH",
+    "area": 82,
+    "id": "243",
+    "avg_sync_level": 769
+  },
+  {
+    "name": "ETERNAL",
+    "area": 82,
+    "id": "32",
+    "avg_sync_level": 756
+  },
+  {
+    "name": "MILKERS",
+    "area": 82,
+    "id": "1",
+    "avg_sync_level": 782
+  },
+  {
+    "name": "極乐净土",
+    "area": 82,
+    "id": "307",
+    "avg_sync_level": 762
+  },
+  {
+    "name": "AZUREASH",
+    "area": 82,
+    "id": "445",
+    "avg_sync_level": 739
+  },
+  {
+    "name": "ARCFLASH",
+    "area": 82,
+    "id": "6073",
+    "avg_sync_level": 737
+  },
+  {
+    "name": "POLICE",
+    "area": 82,
+    "id": "1358",
+    "avg_sync_level": 747
+  },
+  {
+    "name": "COINRUSH",
+    "area": 82,
+    "id": "6080",
+    "avg_sync_level": 721
+  },
+  {
+    "name": "AZURESOL",
+    "area": 82,
+    "id": "11659",
+    "avg_sync_level": 726
+  },
+  {
+    "name": "ZOYA",
+    "area": 82,
+    "id": "1212",
+    "avg_sync_level": 752
+  },
+  {
+    "name": "JAILBIRD",
+    "area": 82,
+    "id": "8624",
+    "avg_sync_level": 711
+  },
+  {
+    "name": "极乐浄土",
+    "area": 82,
+    "id": "261",
+    "avg_sync_level": 706
+  },
+  {
+    "name": "PANTSUU",
+    "area": 82,
+    "id": "2889",
+    "avg_sync_level": 707
+  },
+  {
+    "name": "F2P",
+    "area": 85,
+    "id": "4496",
+    "avg_sync_level": 819
+  },
+  {
+    "name": "CAMELOTT",
+    "area": 85,
+    "id": "6254",
+    "avg_sync_level": 785
+  },
+  {
+    "name": "花天月地",
+    "area": 85,
+    "id": "92",
+    "avg_sync_level": 782
+  },
+  {
+    "name": "AVALONN",
+    "area": 85,
+    "id": "13600",
+    "avg_sync_level": 740
+  },
+  {
+    "name": "WALKURE",
+    "area": 85,
+    "id": "7438",
+    "avg_sync_level": 743
+  },
+  {
+    "name": "TYRANNY",
+    "area": 85,
+    "id": "165",
+    "avg_sync_level": 743
+  },
+  {
+    "name": "ブルーワッフル",
+    "area": 85,
+    "id": "11988",
+    "avg_sync_level": 725
+  },
+  {
+    "name": "KSPD",
+    "area": 85,
+    "id": "3643",
+    "avg_sync_level": 736
+  },
+  {
+    "name": "SECTION",
+    "area": 85,
+    "id": "6479",
+    "avg_sync_level": 706
+  },
+  {
+    "name": "KAGEID",
+    "area": 85,
+    "id": "2786",
+    "avg_sync_level": 713
+  },
+  {
+    "name": "REVIVE",
+    "area": 85,
+    "id": "2819",
+    "avg_sync_level": 729
+  },
+  {
+    "name": "LOLICON",
+    "area": 85,
+    "id": "22",
+    "avg_sync_level": 705
+  },
+  {
+    "name": "EDELWEIS",
+    "area": 85,
+    "id": "2190",
+    "avg_sync_level": 713
+  },
+  {
+    "name": "TYR2NNY",
+    "area": 85,
+    "id": "14482",
+    "avg_sync_level": 723
+  },
+  {
+    "name": "PEPEGA",
+    "area": 85,
+    "id": "2685",
+    "avg_sync_level": 707
+  },
+  {
+    "name": "IDNF2P",
+    "area": 85,
+    "id": "15580",
+    "avg_sync_level": 700
+  }
+]

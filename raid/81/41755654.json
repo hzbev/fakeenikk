@@ -1,0 +1,37 @@
+{
+  "usn": 41755654,
+  "nickname": "KOTU",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433009,
+          "combat": 651183
+        },
+        {
+          "slot": 2,
+          "tid": 203208,
+          "combat": 519484
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 623290
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 706919
+        },
+        {
+          "slot": 5,
+          "tid": 451305,
+          "combat": 631745
+        }
+      ]
+    }
+  ]
+}

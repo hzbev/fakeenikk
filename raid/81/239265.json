@@ -1,0 +1,37 @@
+{
+  "usn": 239265,
+  "nickname": "雅姆莱哈",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 658874
+        },
+        {
+          "slot": 2,
+          "tid": 584004,
+          "combat": 589833
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 1075973
+        },
+        {
+          "slot": 4,
+          "tid": 360005,
+          "combat": 896373
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 1053479
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 1337951,
+  "nickname": "USER1337951",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451303,
+          "combat": 506869
+        },
+        {
+          "slot": 2,
+          "tid": 433004,
+          "combat": 421335
+        },
+        {
+          "slot": 3,
+          "tid": 422508,
+          "combat": 585751
+        },
+        {
+          "slot": 4,
+          "tid": 426207,
+          "combat": 573133
+        },
+        {
+          "slot": 5,
+          "tid": 331601,
+          "combat": 412577
+        }
+      ]
+    }
+  ]
+}

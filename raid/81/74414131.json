@@ -1,0 +1,37 @@
+{
+  "usn": 74414131,
+  "nickname": "HAL",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201608,
+          "combat": 592351
+        },
+        {
+          "slot": 2,
+          "tid": 301705,
+          "combat": 643841
+        },
+        {
+          "slot": 3,
+          "tid": 360101,
+          "combat": 443208
+        },
+        {
+          "slot": 4,
+          "tid": 360001,
+          "combat": 473736
+        },
+        {
+          "slot": 5,
+          "tid": 207503,
+          "combat": 586733
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 8731312,
+  "nickname": "HERO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422305,
+          "combat": 660358
+        },
+        {
+          "slot": 2,
+          "tid": 422508,
+          "combat": 702403
+        },
+        {
+          "slot": 3,
+          "tid": 451305,
+          "combat": 611605
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 647232
+        },
+        {
+          "slot": 5,
+          "tid": 235406,
+          "combat": 598422
+        }
+      ]
+    }
+  ]
+}

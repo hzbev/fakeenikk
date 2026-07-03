@@ -1,0 +1,37 @@
+{
+  "usn": 2459979,
+  "nickname": "墨汐",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433008,
+          "combat": 274608
+        },
+        {
+          "slot": 2,
+          "tid": 201603,
+          "combat": 284990
+        },
+        {
+          "slot": 3,
+          "tid": 108211,
+          "combat": 267827
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 301894
+        },
+        {
+          "slot": 5,
+          "tid": 319401,
+          "combat": 233734
+        }
+      ]
+    }
+  ]
+}

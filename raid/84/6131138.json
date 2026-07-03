@@ -1,0 +1,37 @@
+{
+  "usn": 6131138,
+  "nickname": "3DBETTER",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 446327
+        },
+        {
+          "slot": 2,
+          "tid": 433007,
+          "combat": 409650
+        },
+        {
+          "slot": 3,
+          "tid": 201606,
+          "combat": 432601
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 472311
+        },
+        {
+          "slot": 5,
+          "tid": 235301,
+          "combat": 363371
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 6967718,
+  "nickname": "JJ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 1110347
+        },
+        {
+          "slot": 2,
+          "tid": 422309,
+          "combat": 1071861
+        },
+        {
+          "slot": 3,
+          "tid": 426211,
+          "combat": 1295599
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 1101404
+        },
+        {
+          "slot": 5,
+          "tid": 331606,
+          "combat": 599488
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 3256665,
+  "nickname": "KENNY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301706,
+          "combat": 1081078
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 990153
+        },
+        {
+          "slot": 3,
+          "tid": 201611,
+          "combat": 1233908
+        },
+        {
+          "slot": 4,
+          "tid": 426206,
+          "combat": 1095273
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 1132281
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 92759,
+  "nickname": "NEKO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119208,
+          "combat": 570687
+        },
+        {
+          "slot": 2,
+          "tid": 423402,
+          "combat": 538457
+        },
+        {
+          "slot": 3,
+          "tid": 258302,
+          "combat": 24139
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 508218
+        },
+        {
+          "slot": 5,
+          "tid": 207403,
+          "combat": 290031
+        }
+      ]
+    }
+  ]
+}

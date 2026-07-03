@@ -1,0 +1,37 @@
+{
+  "usn": 2624625,
+  "nickname": "MIJE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 709207
+        },
+        {
+          "slot": 2,
+          "tid": 258305,
+          "combat": 606736
+        },
+        {
+          "slot": 3,
+          "tid": 423401,
+          "combat": 597497
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 660842
+        },
+        {
+          "slot": 5,
+          "tid": 207402,
+          "combat": 484338
+        }
+      ]
+    }
+  ]
+}

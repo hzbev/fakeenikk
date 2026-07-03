@@ -1,0 +1,37 @@
+{
+  "usn": 147574,
+  "nickname": "MEOWWOO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 706033
+        },
+        {
+          "slot": 2,
+          "tid": 217011,
+          "combat": 807538
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 840328
+        },
+        {
+          "slot": 4,
+          "tid": 201611,
+          "combat": 932267
+        },
+        {
+          "slot": 5,
+          "tid": 145011,
+          "combat": 631151
+        }
+      ]
+    }
+  ]
+}

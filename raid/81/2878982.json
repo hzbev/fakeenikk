@@ -1,0 +1,37 @@
+{
+  "usn": 2878982,
+  "nickname": "绺曦",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451306,
+          "combat": 737328
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 692692
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 850116
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 805864
+        },
+        {
+          "slot": 5,
+          "tid": 331604,
+          "combat": 641791
+        }
+      ]
+    }
+  ]
+}

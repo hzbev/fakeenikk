@@ -1,0 +1,37 @@
+{
+  "usn": 498442,
+  "nickname": "MOSKVA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203206,
+          "combat": 643198
+        },
+        {
+          "slot": 2,
+          "tid": 433006,
+          "combat": 893590
+        },
+        {
+          "slot": 3,
+          "tid": 447110,
+          "combat": 985931
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 1007412
+        },
+        {
+          "slot": 5,
+          "tid": 451308,
+          "combat": 939038
+        }
+      ]
+    }
+  ]
+}

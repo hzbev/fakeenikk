@@ -1,0 +1,32 @@
+{
+  "usn": 6703153,
+  "nickname": "JOSEPH",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301703,
+          "combat": 524685
+        },
+        {
+          "slot": 2,
+          "tid": 201607,
+          "combat": 699136
+        },
+        {
+          "slot": 3,
+          "tid": 101803,
+          "combat": 542500
+        },
+        {
+          "slot": 4,
+          "tid": 426011,
+          "combat": 810369
+        }
+      ]
+    }
+  ]
+}

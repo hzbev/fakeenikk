@@ -1,0 +1,37 @@
+{
+  "usn": 5143815,
+  "nickname": "WELDER",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451305,
+          "combat": 742632
+        },
+        {
+          "slot": 2,
+          "tid": 422305,
+          "combat": 734070
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 833466
+        },
+        {
+          "slot": 4,
+          "tid": 426207,
+          "combat": 747932
+        },
+        {
+          "slot": 5,
+          "tid": 433009,
+          "combat": 672579
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 48572,
+  "nickname": "八神蓮",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 903995
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 886348
+        },
+        {
+          "slot": 3,
+          "tid": 201611,
+          "combat": 1007328
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 976644
+        },
+        {
+          "slot": 5,
+          "tid": 150011,
+          "combat": 520683
+        }
+      ]
+    }
+  ]
+}

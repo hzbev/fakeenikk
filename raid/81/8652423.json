@@ -1,0 +1,37 @@
+{
+  "usn": 8652423,
+  "nickname": "八奈见杏菜",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301704,
+          "combat": 892578
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 854830
+        },
+        {
+          "slot": 3,
+          "tid": 201607,
+          "combat": 950618
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 880255
+        },
+        {
+          "slot": 5,
+          "tid": 150011,
+          "combat": 479271
+        }
+      ]
+    }
+  ]
+}

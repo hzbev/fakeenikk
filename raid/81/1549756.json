@@ -1,0 +1,37 @@
+{
+  "usn": 1549756,
+  "nickname": "SILAS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301704,
+          "combat": 884825
+        },
+        {
+          "slot": 2,
+          "tid": 422305,
+          "combat": 950466
+        },
+        {
+          "slot": 3,
+          "tid": 451111,
+          "combat": 1013377
+        },
+        {
+          "slot": 4,
+          "tid": 101804,
+          "combat": 969595
+        },
+        {
+          "slot": 5,
+          "tid": 433011,
+          "combat": 975415
+        }
+      ]
+    }
+  ]
+}

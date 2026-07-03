@@ -1,0 +1,37 @@
+{
+  "usn": 518502,
+  "nickname": "PROCYON",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 890775
+        },
+        {
+          "slot": 2,
+          "tid": 352011,
+          "combat": 804324
+        },
+        {
+          "slot": 3,
+          "tid": 235511,
+          "combat": 834381
+        },
+        {
+          "slot": 4,
+          "tid": 207510,
+          "combat": 883797
+        },
+        {
+          "slot": 5,
+          "tid": 235411,
+          "combat": 784765
+        }
+      ]
+    }
+  ]
+}

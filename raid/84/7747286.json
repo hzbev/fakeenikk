@@ -1,0 +1,37 @@
+{
+  "usn": 7747286,
+  "nickname": "DORD",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239005,
+          "combat": 395807
+        },
+        {
+          "slot": 2,
+          "tid": 422305,
+          "combat": 532162
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 703318
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 696966
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 576446
+        }
+      ]
+    }
+  ]
+}

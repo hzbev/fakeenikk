@@ -1,0 +1,37 @@
+{
+  "usn": 8819515,
+  "nickname": "织摆",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 760665
+        },
+        {
+          "slot": 2,
+          "tid": 258301,
+          "combat": 39794
+        },
+        {
+          "slot": 3,
+          "tid": 423401,
+          "combat": 742189
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 700855
+        },
+        {
+          "slot": 5,
+          "tid": 207401,
+          "combat": 33884
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 7881771,
+  "nickname": "ラクダい",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451309,
+          "combat": 969349
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 869485
+        },
+        {
+          "slot": 3,
+          "tid": 357001,
+          "combat": 867719
+        },
+        {
+          "slot": 4,
+          "tid": 129011,
+          "combat": 948809
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 1105913
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 783827,
+  "nickname": "小风铃",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422306,
+          "combat": 630614
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 760399
+        },
+        {
+          "slot": 3,
+          "tid": 451305,
+          "combat": 604820
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 680391
+        },
+        {
+          "slot": 5,
+          "tid": 331602,
+          "combat": 518425
+        }
+      ]
+    }
+  ]
+}

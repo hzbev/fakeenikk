@@ -1,0 +1,37 @@
+{
+  "usn": 4483774,
+  "nickname": "GUDAO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328106,
+          "combat": 618665
+        },
+        {
+          "slot": 2,
+          "tid": 331502,
+          "combat": 533879
+        },
+        {
+          "slot": 3,
+          "tid": 140303,
+          "combat": 571784
+        },
+        {
+          "slot": 4,
+          "tid": 451102,
+          "combat": 676625
+        },
+        {
+          "slot": 5,
+          "tid": 101801,
+          "combat": 644343
+        }
+      ]
+    }
+  ]
+}

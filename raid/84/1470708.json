@@ -1,0 +1,37 @@
+{
+  "usn": 1470708,
+  "nickname": "DAEDLUCK",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422301,
+          "combat": 506705
+        },
+        {
+          "slot": 2,
+          "tid": 426204,
+          "combat": 586443
+        },
+        {
+          "slot": 3,
+          "tid": 301705,
+          "combat": 602752
+        },
+        {
+          "slot": 4,
+          "tid": 422510,
+          "combat": 620754
+        },
+        {
+          "slot": 5,
+          "tid": 331602,
+          "combat": 454509
+        }
+      ]
+    }
+  ]
+}

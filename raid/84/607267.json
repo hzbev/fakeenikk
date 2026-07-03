@@ -1,0 +1,37 @@
+{
+  "usn": 607267,
+  "nickname": "NISSENOK",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301701,
+          "combat": 538043
+        },
+        {
+          "slot": 2,
+          "tid": 422508,
+          "combat": 588840
+        },
+        {
+          "slot": 3,
+          "tid": 426202,
+          "combat": 563299
+        },
+        {
+          "slot": 4,
+          "tid": 422301,
+          "combat": 487190
+        },
+        {
+          "slot": 5,
+          "tid": 150004,
+          "combat": 283243
+        }
+      ]
+    }
+  ]
+}

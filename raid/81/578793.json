@@ -1,0 +1,37 @@
+{
+  "usn": 578793,
+  "nickname": "IGNIZ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201611,
+          "combat": 1161093
+        },
+        {
+          "slot": 2,
+          "tid": 422306,
+          "combat": 1017508
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 1130475
+        },
+        {
+          "slot": 4,
+          "tid": 426209,
+          "combat": 1125154
+        },
+        {
+          "slot": 5,
+          "tid": 331606,
+          "combat": 795237
+        }
+      ]
+    }
+  ]
+}

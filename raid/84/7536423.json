@@ -1,0 +1,37 @@
+{
+  "usn": 7536423,
+  "nickname": "FANGORR",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 577826
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 705371
+        },
+        {
+          "slot": 3,
+          "tid": 422311,
+          "combat": 714899
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 692173
+        },
+        {
+          "slot": 5,
+          "tid": 331603,
+          "combat": 553547
+        }
+      ]
+    }
+  ]
+}

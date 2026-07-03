@@ -1,0 +1,37 @@
+{
+  "usn": 15931564,
+  "nickname": "コルト",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 360001,
+          "combat": 683926
+        },
+        {
+          "slot": 2,
+          "tid": 239008,
+          "combat": 783622
+        },
+        {
+          "slot": 3,
+          "tid": 447109,
+          "combat": 886077
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 786926
+        },
+        {
+          "slot": 5,
+          "tid": 451307,
+          "combat": 754436
+        }
+      ]
+    }
+  ]
+}

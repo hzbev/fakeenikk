@@ -1,0 +1,37 @@
+{
+  "usn": 8376557,
+  "nickname": "唐老鸭",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 108211,
+          "combat": 407481
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 360398
+        },
+        {
+          "slot": 3,
+          "tid": 235209,
+          "combat": 394762
+        },
+        {
+          "slot": 4,
+          "tid": 319401,
+          "combat": 316022
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 317267
+        }
+      ]
+    }
+  ]
+}

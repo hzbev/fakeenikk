@@ -1,0 +1,37 @@
+{
+  "usn": 451006,
+  "nickname": "天音ちゃ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239011,
+          "combat": 960955
+        },
+        {
+          "slot": 2,
+          "tid": 422310,
+          "combat": 998138
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 1102452
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 915836
+        },
+        {
+          "slot": 5,
+          "tid": 451307,
+          "combat": 929308
+        }
+      ]
+    }
+  ]
+}

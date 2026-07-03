@@ -1,0 +1,37 @@
+{
+  "usn": 2281243,
+  "nickname": "君君冫",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301709,
+          "combat": 947843
+        },
+        {
+          "slot": 2,
+          "tid": 352011,
+          "combat": 842148
+        },
+        {
+          "slot": 3,
+          "tid": 235509,
+          "combat": 793684
+        },
+        {
+          "slot": 4,
+          "tid": 235409,
+          "combat": 813625
+        },
+        {
+          "slot": 5,
+          "tid": 207511,
+          "combat": 949027
+        }
+      ]
+    }
+  ]
+}

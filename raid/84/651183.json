@@ -1,0 +1,37 @@
+{
+  "usn": 651183,
+  "nickname": "KAENDALL",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328106,
+          "combat": 529078
+        },
+        {
+          "slot": 2,
+          "tid": 433010,
+          "combat": 617801
+        },
+        {
+          "slot": 3,
+          "tid": 319405,
+          "combat": 613917
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 629952
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 529308
+        }
+      ]
+    }
+  ]
+}

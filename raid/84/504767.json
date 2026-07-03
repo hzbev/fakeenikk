@@ -1,0 +1,37 @@
+{
+  "usn": 504767,
+  "nickname": "DYLAN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 426211,
+          "combat": 686035
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 648417
+        },
+        {
+          "slot": 3,
+          "tid": 451311,
+          "combat": 707778
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 680022
+        },
+        {
+          "slot": 5,
+          "tid": 129011,
+          "combat": 633305
+        }
+      ]
+    }
+  ]
+}

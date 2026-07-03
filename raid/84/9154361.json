@@ -1,0 +1,37 @@
+{
+  "usn": 9154361,
+  "nickname": "勒恩尔DEITY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433007,
+          "combat": 405568
+        },
+        {
+          "slot": 2,
+          "tid": 422505,
+          "combat": 451640
+        },
+        {
+          "slot": 3,
+          "tid": 301708,
+          "combat": 489375
+        },
+        {
+          "slot": 4,
+          "tid": 426204,
+          "combat": 444967
+        },
+        {
+          "slot": 5,
+          "tid": 235407,
+          "combat": 447883
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 223648,
+  "nickname": "LUCKY7",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451301,
+          "combat": 545705
+        },
+        {
+          "slot": 2,
+          "tid": 422301,
+          "combat": 490020
+        },
+        {
+          "slot": 3,
+          "tid": 422505,
+          "combat": 619345
+        },
+        {
+          "slot": 4,
+          "tid": 426201,
+          "combat": 526312
+        },
+        {
+          "slot": 5,
+          "tid": 331601,
+          "combat": 355717
+        }
+      ]
+    }
+  ]
+}

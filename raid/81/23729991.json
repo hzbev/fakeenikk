@@ -1,0 +1,37 @@
+{
+  "usn": 23729991,
+  "nickname": "FAKER",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451310,
+          "combat": 1980713
+        },
+        {
+          "slot": 2,
+          "tid": 451411,
+          "combat": 1829327
+        },
+        {
+          "slot": 3,
+          "tid": 451111,
+          "combat": 2017495
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 2016210
+        },
+        {
+          "slot": 5,
+          "tid": 201611,
+          "combat": 2081124
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 1087026,
+  "nickname": "PA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239011,
+          "combat": 989186
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 1064176
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 1139228
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 998998
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 938628
+        }
+      ]
+    }
+  ]
+}

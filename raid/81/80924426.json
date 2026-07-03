@@ -1,0 +1,37 @@
+{
+  "usn": 80924426,
+  "nickname": "ぷらちな",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 871529
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 875485
+        },
+        {
+          "slot": 3,
+          "tid": 422311,
+          "combat": 800546
+        },
+        {
+          "slot": 4,
+          "tid": 426202,
+          "combat": 662645
+        },
+        {
+          "slot": 5,
+          "tid": 150005,
+          "combat": 373507
+        }
+      ]
+    }
+  ]
+}

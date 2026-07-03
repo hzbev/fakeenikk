@@ -1,0 +1,37 @@
+{
+  "usn": 558317,
+  "nickname": "ARIEL",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328109,
+          "combat": 642963
+        },
+        {
+          "slot": 2,
+          "tid": 360001,
+          "combat": 573160
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 675637
+        },
+        {
+          "slot": 4,
+          "tid": 447010,
+          "combat": 700703
+        },
+        {
+          "slot": 5,
+          "tid": 360102,
+          "combat": 368653
+        }
+      ]
+    }
+  ]
+}

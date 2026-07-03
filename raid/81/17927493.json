@@ -1,0 +1,37 @@
+{
+  "usn": 17927493,
+  "nickname": "TWEYEN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451309,
+          "combat": 762046
+        },
+        {
+          "slot": 2,
+          "tid": 422310,
+          "combat": 744600
+        },
+        {
+          "slot": 3,
+          "tid": 426211,
+          "combat": 870291
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 848649
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 756832
+        }
+      ]
+    }
+  ]
+}

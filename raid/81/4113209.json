@@ -1,0 +1,37 @@
+{
+  "usn": 4113209,
+  "nickname": "SSSY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 785026
+        },
+        {
+          "slot": 2,
+          "tid": 338211,
+          "combat": 427059
+        },
+        {
+          "slot": 3,
+          "tid": 423411,
+          "combat": 703365
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 673902
+        },
+        {
+          "slot": 5,
+          "tid": 204311,
+          "combat": 650269
+        }
+      ]
+    }
+  ]
+}

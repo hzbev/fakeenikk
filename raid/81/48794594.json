@@ -1,0 +1,37 @@
+{
+  "usn": 48794594,
+  "nickname": "コルス",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301505,
+          "combat": 505565
+        },
+        {
+          "slot": 2,
+          "tid": 301702,
+          "combat": 511013
+        },
+        {
+          "slot": 3,
+          "tid": 433008,
+          "combat": 582023
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 600167
+        },
+        {
+          "slot": 5,
+          "tid": 218301,
+          "combat": 438762
+        }
+      ]
+    }
+  ]
+}

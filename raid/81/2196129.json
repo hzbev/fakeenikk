@@ -1,0 +1,27 @@
+{
+  "usn": 2196129,
+  "nickname": "B昇竜",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 101811,
+          "combat": 1089588
+        },
+        {
+          "slot": 2,
+          "tid": 202211,
+          "combat": 896206
+        },
+        {
+          "slot": 3,
+          "tid": 258206,
+          "combat": 782209
+        }
+      ]
+    }
+  ]
+}

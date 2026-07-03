@@ -1,0 +1,37 @@
+{
+  "usn": 838469,
+  "nickname": "BOSHU",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433008,
+          "combat": 556641
+        },
+        {
+          "slot": 2,
+          "tid": 201604,
+          "combat": 568886
+        },
+        {
+          "slot": 3,
+          "tid": 235208,
+          "combat": 548471
+        },
+        {
+          "slot": 4,
+          "tid": 451305,
+          "combat": 551818
+        },
+        {
+          "slot": 5,
+          "tid": 150001,
+          "combat": 7149
+        }
+      ]
+    }
+  ]
+}

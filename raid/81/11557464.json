@@ -1,0 +1,37 @@
+{
+  "usn": 11557464,
+  "nickname": "えくれあ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451305,
+          "combat": 542020
+        },
+        {
+          "slot": 2,
+          "tid": 422302,
+          "combat": 524824
+        },
+        {
+          "slot": 3,
+          "tid": 426202,
+          "combat": 546897
+        },
+        {
+          "slot": 4,
+          "tid": 422504,
+          "combat": 547962
+        },
+        {
+          "slot": 5,
+          "tid": 331603,
+          "combat": 512906
+        }
+      ]
+    }
+  ]
+}

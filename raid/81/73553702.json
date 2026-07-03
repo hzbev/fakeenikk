@@ -1,0 +1,37 @@
+{
+  "usn": 73553702,
+  "nickname": "よくさる",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 739685
+        },
+        {
+          "slot": 2,
+          "tid": 422309,
+          "combat": 829587
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 961603
+        },
+        {
+          "slot": 4,
+          "tid": 451311,
+          "combat": 858453
+        },
+        {
+          "slot": 5,
+          "tid": 217009,
+          "combat": 761333
+        }
+      ]
+    }
+  ]
+}

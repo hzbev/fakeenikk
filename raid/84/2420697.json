@@ -1,0 +1,37 @@
+{
+  "usn": 2420697,
+  "nickname": "KIMONOHA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328110,
+          "combat": 543260
+        },
+        {
+          "slot": 2,
+          "tid": 433009,
+          "combat": 519874
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 612142
+        },
+        {
+          "slot": 4,
+          "tid": 319401,
+          "combat": 426416
+        },
+        {
+          "slot": 5,
+          "tid": 150204,
+          "combat": 451644
+        }
+      ]
+    }
+  ]
+}

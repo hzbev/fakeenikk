@@ -1,0 +1,37 @@
+{
+  "usn": 269834,
+  "nickname": "RIKKI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422305,
+          "combat": 596373
+        },
+        {
+          "slot": 2,
+          "tid": 203211,
+          "combat": 562202
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 586786
+        },
+        {
+          "slot": 4,
+          "tid": 352004,
+          "combat": 489812
+        },
+        {
+          "slot": 5,
+          "tid": 451306,
+          "combat": 570272
+        }
+      ]
+    }
+  ]
+}

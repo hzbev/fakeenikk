@@ -1,0 +1,37 @@
+{
+  "usn": 8165634,
+  "nickname": "天宫心",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235408,
+          "combat": 719494
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 844911
+        },
+        {
+          "slot": 3,
+          "tid": 235507,
+          "combat": 671189
+        },
+        {
+          "slot": 4,
+          "tid": 426207,
+          "combat": 739522
+        },
+        {
+          "slot": 5,
+          "tid": 301708,
+          "combat": 760699
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 191823,
+  "nickname": "KURAGE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201605,
+          "combat": 868593
+        },
+        {
+          "slot": 2,
+          "tid": 422306,
+          "combat": 754689
+        },
+        {
+          "slot": 3,
+          "tid": 447011,
+          "combat": 860810
+        },
+        {
+          "slot": 4,
+          "tid": 116209,
+          "combat": 763610
+        },
+        {
+          "slot": 5,
+          "tid": 140304,
+          "combat": 441804
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 3019930,
+  "nickname": "FHGOZG66",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 447108,
+          "combat": 671157
+        },
+        {
+          "slot": 2,
+          "tid": 217011,
+          "combat": 631647
+        },
+        {
+          "slot": 3,
+          "tid": 301703,
+          "combat": 611731
+        },
+        {
+          "slot": 4,
+          "tid": 433003,
+          "combat": 502231
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 305568
+        }
+      ]
+    }
+  ]
+}

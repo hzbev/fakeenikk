@@ -1,0 +1,37 @@
+{
+  "usn": 1280862,
+  "nickname": "祁从霜",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422302,
+          "combat": 538563
+        },
+        {
+          "slot": 2,
+          "tid": 422506,
+          "combat": 579824
+        },
+        {
+          "slot": 3,
+          "tid": 426204,
+          "combat": 581780
+        },
+        {
+          "slot": 4,
+          "tid": 451306,
+          "combat": 565665
+        },
+        {
+          "slot": 5,
+          "tid": 150001,
+          "combat": 277459
+        }
+      ]
+    }
+  ]
+}

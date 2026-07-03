@@ -1,0 +1,37 @@
+{
+  "usn": 6465843,
+  "nickname": "NAN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 327004,
+          "combat": 632274
+        },
+        {
+          "slot": 2,
+          "tid": 327203,
+          "combat": 522668
+        },
+        {
+          "slot": 3,
+          "tid": 451108,
+          "combat": 689490
+        },
+        {
+          "slot": 4,
+          "tid": 319406,
+          "combat": 593707
+        },
+        {
+          "slot": 5,
+          "tid": 201607,
+          "combat": 690400
+        }
+      ]
+    }
+  ]
+}

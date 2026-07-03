@@ -1,0 +1,37 @@
+{
+  "usn": 74129807,
+  "nickname": "ねりわさ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 919484
+        },
+        {
+          "slot": 2,
+          "tid": 201611,
+          "combat": 988292
+        },
+        {
+          "slot": 3,
+          "tid": 451308,
+          "combat": 873223
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 901243
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 882079
+        }
+      ]
+    }
+  ]
+}

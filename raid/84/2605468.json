@@ -1,0 +1,37 @@
+{
+  "usn": 2605468,
+  "nickname": "ESCARGO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422305,
+          "combat": 502928
+        },
+        {
+          "slot": 2,
+          "tid": 451305,
+          "combat": 517382
+        },
+        {
+          "slot": 3,
+          "tid": 422505,
+          "combat": 564999
+        },
+        {
+          "slot": 4,
+          "tid": 426201,
+          "combat": 464363
+        },
+        {
+          "slot": 5,
+          "tid": 150005,
+          "combat": 7629
+        }
+      ]
+    }
+  ]
+}

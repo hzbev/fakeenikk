@@ -1,0 +1,37 @@
+{
+  "usn": 7512188,
+  "nickname": "ANDANTE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 662855
+        },
+        {
+          "slot": 2,
+          "tid": 301705,
+          "combat": 701479
+        },
+        {
+          "slot": 3,
+          "tid": 201611,
+          "combat": 844761
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 657083
+        },
+        {
+          "slot": 5,
+          "tid": 150008,
+          "combat": 578229
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 1728175,
+  "nickname": "KWAI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301708,
+          "combat": 860492
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 823125
+        },
+        {
+          "slot": 3,
+          "tid": 426206,
+          "combat": 800772
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 894973
+        },
+        {
+          "slot": 5,
+          "tid": 331606,
+          "combat": 718311
+        }
+      ]
+    }
+  ]
+}

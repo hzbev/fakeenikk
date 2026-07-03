@@ -1,0 +1,37 @@
+{
+  "usn": 7273392,
+  "nickname": "HIIMXAYA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 527022
+        },
+        {
+          "slot": 2,
+          "tid": 422309,
+          "combat": 574172
+        },
+        {
+          "slot": 3,
+          "tid": 426208,
+          "combat": 553006
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 579226
+        },
+        {
+          "slot": 5,
+          "tid": 331603,
+          "combat": 453266
+        }
+      ]
+    }
+  ]
+}

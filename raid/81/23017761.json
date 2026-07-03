@@ -1,0 +1,37 @@
+{
+  "usn": 23017761,
+  "nickname": "さく",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239005,
+          "combat": 623167
+        },
+        {
+          "slot": 2,
+          "tid": 433009,
+          "combat": 652843
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 859723
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 715332
+        },
+        {
+          "slot": 5,
+          "tid": 451306,
+          "combat": 691667
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 313603,
+  "nickname": "MARQUESS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433009,
+          "combat": 643178
+        },
+        {
+          "slot": 2,
+          "tid": 201608,
+          "combat": 775819
+        },
+        {
+          "slot": 3,
+          "tid": 451305,
+          "combat": 655063
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 738503
+        },
+        {
+          "slot": 5,
+          "tid": 150011,
+          "combat": 386553
+        }
+      ]
+    }
+  ]
+}

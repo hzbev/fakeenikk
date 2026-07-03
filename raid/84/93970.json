@@ -1,0 +1,37 @@
+{
+  "usn": 93970,
+  "nickname": "妮寄太美",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301704,
+          "combat": 678026
+        },
+        {
+          "slot": 2,
+          "tid": 235509,
+          "combat": 667579
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 744286
+        },
+        {
+          "slot": 4,
+          "tid": 235406,
+          "combat": 647860
+        },
+        {
+          "slot": 5,
+          "tid": 101804,
+          "combat": 693008
+        }
+      ]
+    }
+  ]
+}

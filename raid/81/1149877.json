@@ -1,0 +1,37 @@
+{
+  "usn": 1149877,
+  "nickname": "ぷぷ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422311,
+          "combat": 883760
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 1064689
+        },
+        {
+          "slot": 3,
+          "tid": 301709,
+          "combat": 855701
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 984768
+        },
+        {
+          "slot": 5,
+          "tid": 331609,
+          "combat": 731711
+        }
+      ]
+    }
+  ]
+}

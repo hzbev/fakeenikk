@@ -1,0 +1,37 @@
+{
+  "usn": 6610447,
+  "nickname": "B00BL1CK",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422507,
+          "combat": 625002
+        },
+        {
+          "slot": 2,
+          "tid": 426207,
+          "combat": 612281
+        },
+        {
+          "slot": 3,
+          "tid": 301704,
+          "combat": 610580
+        },
+        {
+          "slot": 4,
+          "tid": 235404,
+          "combat": 487531
+        },
+        {
+          "slot": 5,
+          "tid": 235505,
+          "combat": 526980
+        }
+      ]
+    }
+  ]
+}

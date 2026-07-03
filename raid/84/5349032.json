@@ -1,0 +1,37 @@
+{
+  "usn": 5349032,
+  "nickname": "ALFAYX",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201604,
+          "combat": 592764
+        },
+        {
+          "slot": 2,
+          "tid": 360001,
+          "combat": 500237
+        },
+        {
+          "slot": 3,
+          "tid": 140307,
+          "combat": 546045
+        },
+        {
+          "slot": 4,
+          "tid": 360101,
+          "combat": 484306
+        },
+        {
+          "slot": 5,
+          "tid": 447009,
+          "combat": 633191
+        }
+      ]
+    }
+  ]
+}

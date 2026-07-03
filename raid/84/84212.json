@@ -1,0 +1,37 @@
+{
+  "usn": 84212,
+  "nickname": "MORI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422303,
+          "combat": 525189
+        },
+        {
+          "slot": 2,
+          "tid": 451302,
+          "combat": 451056
+        },
+        {
+          "slot": 3,
+          "tid": 426202,
+          "combat": 491853
+        },
+        {
+          "slot": 4,
+          "tid": 422506,
+          "combat": 542890
+        },
+        {
+          "slot": 5,
+          "tid": 150004,
+          "combat": 292386
+        }
+      ]
+    }
+  ]
+}

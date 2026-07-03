@@ -1,0 +1,37 @@
+{
+  "usn": 16355348,
+  "nickname": "シン",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 426207,
+          "combat": 835857
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 896424
+        },
+        {
+          "slot": 3,
+          "tid": 331604,
+          "combat": 632295
+        },
+        {
+          "slot": 4,
+          "tid": 451308,
+          "combat": 826672
+        },
+        {
+          "slot": 5,
+          "tid": 422511,
+          "combat": 993923
+        }
+      ]
+    }
+  ]
+}

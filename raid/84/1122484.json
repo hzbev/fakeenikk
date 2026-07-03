@@ -1,0 +1,37 @@
+{
+  "usn": 1122484,
+  "nickname": "雨落南枫",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201605,
+          "combat": 636286
+        },
+        {
+          "slot": 2,
+          "tid": 433003,
+          "combat": 551674
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 708818
+        },
+        {
+          "slot": 4,
+          "tid": 319401,
+          "combat": 493059
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 445407
+        }
+      ]
+    }
+  ]
+}

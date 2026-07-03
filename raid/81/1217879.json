@@ -1,0 +1,37 @@
+{
+  "usn": 1217879,
+  "nickname": "贤猫",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 1013606
+        },
+        {
+          "slot": 2,
+          "tid": 258306,
+          "combat": 944820
+        },
+        {
+          "slot": 3,
+          "tid": 423401,
+          "combat": 838679
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 934045
+        },
+        {
+          "slot": 5,
+          "tid": 207407,
+          "combat": 761838
+        }
+      ]
+    }
+  ]
+}

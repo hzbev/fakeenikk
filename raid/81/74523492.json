@@ -1,0 +1,37 @@
+{
+  "usn": 74523492,
+  "nickname": "其の三",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235411,
+          "combat": 677394
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 841842
+        },
+        {
+          "slot": 3,
+          "tid": 235509,
+          "combat": 607637
+        },
+        {
+          "slot": 4,
+          "tid": 426209,
+          "combat": 737483
+        },
+        {
+          "slot": 5,
+          "tid": 301711,
+          "combat": 812140
+        }
+      ]
+    }
+  ]
+}

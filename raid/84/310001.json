@@ -1,0 +1,37 @@
+{
+  "usn": 310001,
+  "nickname": "KLARA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422311,
+          "combat": 976786
+        },
+        {
+          "slot": 2,
+          "tid": 426211,
+          "combat": 1015282
+        },
+        {
+          "slot": 3,
+          "tid": 451310,
+          "combat": 916567
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 971099
+        },
+        {
+          "slot": 5,
+          "tid": 331606,
+          "combat": 699260
+        }
+      ]
+    }
+  ]
+}

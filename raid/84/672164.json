@@ -1,0 +1,37 @@
+{
+  "usn": 672164,
+  "nickname": "TIROGEN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203207,
+          "combat": 448254
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 468148
+        },
+        {
+          "slot": 3,
+          "tid": 422004,
+          "combat": 28399
+        },
+        {
+          "slot": 4,
+          "tid": 423307,
+          "combat": 439637
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 546599
+        }
+      ]
+    }
+  ]
+}

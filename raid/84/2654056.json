@@ -1,0 +1,37 @@
+{
+  "usn": 2654056,
+  "nickname": "IQUIT",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201605,
+          "combat": 606836
+        },
+        {
+          "slot": 2,
+          "tid": 301702,
+          "combat": 520506
+        },
+        {
+          "slot": 3,
+          "tid": 150011,
+          "combat": 352990
+        },
+        {
+          "slot": 4,
+          "tid": 319111,
+          "combat": 578040
+        },
+        {
+          "slot": 5,
+          "tid": 116204,
+          "combat": 438025
+        }
+      ]
+    }
+  ]
+}

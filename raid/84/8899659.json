@@ -1,0 +1,37 @@
+{
+  "usn": 8899659,
+  "nickname": "兰伯特",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433004,
+          "combat": 439574
+        },
+        {
+          "slot": 2,
+          "tid": 301701,
+          "combat": 452727
+        },
+        {
+          "slot": 3,
+          "tid": 447101,
+          "combat": 421198
+        },
+        {
+          "slot": 4,
+          "tid": 217003,
+          "combat": 396094
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 386752
+        }
+      ]
+    }
+  ]
+}

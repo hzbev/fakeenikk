@@ -1,0 +1,37 @@
+{
+  "usn": 72352731,
+  "nickname": "KEI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 360004,
+          "combat": 1285373
+        },
+        {
+          "slot": 2,
+          "tid": 360104,
+          "combat": 1153523
+        },
+        {
+          "slot": 3,
+          "tid": 451311,
+          "combat": 1585847
+        },
+        {
+          "slot": 4,
+          "tid": 447111,
+          "combat": 1667343
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 1473713
+        }
+      ]
+    }
+  ]
+}

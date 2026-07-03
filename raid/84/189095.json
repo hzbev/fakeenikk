@@ -1,0 +1,37 @@
+{
+  "usn": 189095,
+  "nickname": "假名",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451302,
+          "combat": 486579
+        },
+        {
+          "slot": 2,
+          "tid": 422302,
+          "combat": 487375
+        },
+        {
+          "slot": 3,
+          "tid": 422505,
+          "combat": 581901
+        },
+        {
+          "slot": 4,
+          "tid": 426202,
+          "combat": 510340
+        },
+        {
+          "slot": 5,
+          "tid": 235406,
+          "combat": 477428
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 6604,
+  "nickname": "FELUNA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 605754
+        },
+        {
+          "slot": 2,
+          "tid": 235408,
+          "combat": 626225
+        },
+        {
+          "slot": 3,
+          "tid": 426208,
+          "combat": 757551
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 775705
+        },
+        {
+          "slot": 5,
+          "tid": 235510,
+          "combat": 646006
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 7720788,
+  "nickname": "VAL",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451304,
+          "combat": 413357
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 405314
+        },
+        {
+          "slot": 3,
+          "tid": 426204,
+          "combat": 460713
+        },
+        {
+          "slot": 4,
+          "tid": 447101,
+          "combat": 407755
+        },
+        {
+          "slot": 5,
+          "tid": 203207,
+          "combat": 328937
+        }
+      ]
+    }
+  ]
+}

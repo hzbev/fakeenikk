@@ -1,0 +1,37 @@
+{
+  "usn": 1727009,
+  "nickname": "あいえ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 719584
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 748597
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 738762
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 733367
+        },
+        {
+          "slot": 5,
+          "tid": 451308,
+          "combat": 771578
+        }
+      ]
+    }
+  ]
+}

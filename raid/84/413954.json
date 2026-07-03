@@ -1,0 +1,37 @@
+{
+  "usn": 413954,
+  "nickname": "KITTY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119208,
+          "combat": 568150
+        },
+        {
+          "slot": 2,
+          "tid": 258302,
+          "combat": 259076
+        },
+        {
+          "slot": 3,
+          "tid": 423401,
+          "combat": 504084
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 524802
+        },
+        {
+          "slot": 5,
+          "tid": 207401,
+          "combat": 265797
+        }
+      ]
+    }
+  ]
+}

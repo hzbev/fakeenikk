@@ -1,0 +1,37 @@
+{
+  "usn": 2557843,
+  "nickname": "ヒビキ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451311,
+          "combat": 786040
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 791034
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 860677
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 856839
+        },
+        {
+          "slot": 5,
+          "tid": 583511,
+          "combat": 803155
+        }
+      ]
+    }
+  ]
+}

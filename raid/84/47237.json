@@ -1,0 +1,37 @@
+{
+  "usn": 47237,
+  "nickname": "RINGO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201607,
+          "combat": 597343
+        },
+        {
+          "slot": 2,
+          "tid": 451401,
+          "combat": 424698
+        },
+        {
+          "slot": 3,
+          "tid": 451105,
+          "combat": 521255
+        },
+        {
+          "slot": 4,
+          "tid": 140306,
+          "combat": 330780
+        },
+        {
+          "slot": 5,
+          "tid": 116205,
+          "combat": 515794
+        }
+      ]
+    }
+  ]
+}

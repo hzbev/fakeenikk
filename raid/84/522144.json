@@ -1,0 +1,37 @@
+{
+  "usn": 522144,
+  "nickname": "VIDE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 435763
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 544320
+        },
+        {
+          "slot": 3,
+          "tid": 447102,
+          "combat": 578449
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 578624
+        },
+        {
+          "slot": 5,
+          "tid": 451302,
+          "combat": 532520
+        }
+      ]
+    }
+  ]
+}

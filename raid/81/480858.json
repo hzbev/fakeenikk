@@ -1,0 +1,37 @@
+{
+  "usn": 480858,
+  "nickname": "失败的妮生",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 886129
+        },
+        {
+          "slot": 2,
+          "tid": 217011,
+          "combat": 763270
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 968333
+        },
+        {
+          "slot": 4,
+          "tid": 201611,
+          "combat": 984136
+        },
+        {
+          "slot": 5,
+          "tid": 145011,
+          "combat": 891741
+        }
+      ]
+    }
+  ]
+}

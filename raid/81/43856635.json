@@ -1,0 +1,37 @@
+{
+  "usn": 43856635,
+  "nickname": "REONA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 563572
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 768665
+        },
+        {
+          "slot": 3,
+          "tid": 422011,
+          "combat": 957509
+        },
+        {
+          "slot": 4,
+          "tid": 327205,
+          "combat": 672009
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 899089
+        }
+      ]
+    }
+  ]
+}

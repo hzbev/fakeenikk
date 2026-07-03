@@ -1,0 +1,37 @@
+{
+  "usn": 1197609,
+  "nickname": "REFORGE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422305,
+          "combat": 533649
+        },
+        {
+          "slot": 2,
+          "tid": 422507,
+          "combat": 649013
+        },
+        {
+          "slot": 3,
+          "tid": 451302,
+          "combat": 553733
+        },
+        {
+          "slot": 4,
+          "tid": 426201,
+          "combat": 518184
+        },
+        {
+          "slot": 5,
+          "tid": 331602,
+          "combat": 464642
+        }
+      ]
+    }
+  ]
+}

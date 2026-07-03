@@ -1,0 +1,37 @@
+{
+  "usn": 1840587,
+  "nickname": "TORRES",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235409,
+          "combat": 598195
+        },
+        {
+          "slot": 2,
+          "tid": 422508,
+          "combat": 711234
+        },
+        {
+          "slot": 3,
+          "tid": 426204,
+          "combat": 608498
+        },
+        {
+          "slot": 4,
+          "tid": 235506,
+          "combat": 566829
+        },
+        {
+          "slot": 5,
+          "tid": 301704,
+          "combat": 643224
+        }
+      ]
+    }
+  ]
+}

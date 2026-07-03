@@ -1,0 +1,37 @@
+{
+  "usn": 4520835,
+  "nickname": "ひとは",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 936230
+        },
+        {
+          "slot": 2,
+          "tid": 433010,
+          "combat": 910014
+        },
+        {
+          "slot": 3,
+          "tid": 447110,
+          "combat": 1162149
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 994928
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 727891
+        }
+      ]
+    }
+  ]
+}

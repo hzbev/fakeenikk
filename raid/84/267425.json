@@ -1,0 +1,37 @@
+{
+  "usn": 267425,
+  "nickname": "KEVPOCKY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203210,
+          "combat": 338589
+        },
+        {
+          "slot": 2,
+          "tid": 433007,
+          "combat": 500444
+        },
+        {
+          "slot": 3,
+          "tid": 447101,
+          "combat": 505301
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 465236
+        },
+        {
+          "slot": 5,
+          "tid": 451310,
+          "combat": 510836
+        }
+      ]
+    }
+  ]
+}

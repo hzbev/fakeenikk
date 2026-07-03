@@ -1,0 +1,37 @@
+{
+  "usn": 874281,
+  "nickname": "ZEH",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328106,
+          "combat": 590450
+        },
+        {
+          "slot": 2,
+          "tid": 235402,
+          "combat": 512272
+        },
+        {
+          "slot": 3,
+          "tid": 235501,
+          "combat": 458488
+        },
+        {
+          "slot": 4,
+          "tid": 447005,
+          "combat": 604278
+        },
+        {
+          "slot": 5,
+          "tid": 426204,
+          "combat": 621068
+        }
+      ]
+    }
+  ]
+}

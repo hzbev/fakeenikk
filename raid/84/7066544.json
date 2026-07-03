@@ -1,0 +1,37 @@
+{
+  "usn": 7066544,
+  "nickname": "FAULTY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301704,
+          "combat": 526533
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 459134
+        },
+        {
+          "slot": 3,
+          "tid": 422505,
+          "combat": 500949
+        },
+        {
+          "slot": 4,
+          "tid": 426206,
+          "combat": 553060
+        },
+        {
+          "slot": 5,
+          "tid": 331601,
+          "combat": 407517
+        }
+      ]
+    }
+  ]
+}

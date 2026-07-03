@@ -1,0 +1,37 @@
+{
+  "usn": 464450,
+  "nickname": "艾薇兒",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239007,
+          "combat": 437136
+        },
+        {
+          "slot": 2,
+          "tid": 360001,
+          "combat": 530698
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 764874
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 705751
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 658607
+        }
+      ]
+    }
+  ]
+}

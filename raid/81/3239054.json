@@ -1,0 +1,37 @@
+{
+  "usn": 3239054,
+  "nickname": "NENE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 108211,
+          "combat": 843337
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 858871
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 931507
+        },
+        {
+          "slot": 4,
+          "tid": 319407,
+          "combat": 883501
+        },
+        {
+          "slot": 5,
+          "tid": 150206,
+          "combat": 813891
+        }
+      ]
+    }
+  ]
+}

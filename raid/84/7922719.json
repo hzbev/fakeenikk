@@ -1,0 +1,37 @@
+{
+  "usn": 7922719,
+  "nickname": "HELIOS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 583309
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 642961
+        },
+        {
+          "slot": 3,
+          "tid": 301711,
+          "combat": 611174
+        },
+        {
+          "slot": 4,
+          "tid": 150008,
+          "combat": 291023
+        },
+        {
+          "slot": 5,
+          "tid": 319111,
+          "combat": 562002
+        }
+      ]
+    }
+  ]
+}

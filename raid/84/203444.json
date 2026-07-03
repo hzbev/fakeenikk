@@ -1,0 +1,37 @@
+{
+  "usn": 203444,
+  "nickname": "觉醒之己",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451304,
+          "combat": 534606
+        },
+        {
+          "slot": 2,
+          "tid": 422305,
+          "combat": 579633
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 618689
+        },
+        {
+          "slot": 4,
+          "tid": 426204,
+          "combat": 566285
+        },
+        {
+          "slot": 5,
+          "tid": 331605,
+          "combat": 415032
+        }
+      ]
+    }
+  ]
+}

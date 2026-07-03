@@ -1,0 +1,37 @@
+{
+  "usn": 74075149,
+  "nickname": "セレ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433007,
+          "combat": 524780
+        },
+        {
+          "slot": 2,
+          "tid": 239007,
+          "combat": 402534
+        },
+        {
+          "slot": 3,
+          "tid": 201606,
+          "combat": 564777
+        },
+        {
+          "slot": 4,
+          "tid": 447102,
+          "combat": 468363
+        },
+        {
+          "slot": 5,
+          "tid": 150006,
+          "combat": 361970
+        }
+      ]
+    }
+  ]
+}

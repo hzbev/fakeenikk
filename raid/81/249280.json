@@ -1,0 +1,37 @@
+{
+  "usn": 249280,
+  "nickname": "潮汕三水哥",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 554469
+        },
+        {
+          "slot": 2,
+          "tid": 422309,
+          "combat": 751855
+        },
+        {
+          "slot": 3,
+          "tid": 447102,
+          "combat": 582205
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 587239
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 783349
+        }
+      ]
+    }
+  ]
+}

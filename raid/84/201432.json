@@ -1,0 +1,37 @@
+{
+  "usn": 201432,
+  "nickname": "ZANE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451107,
+          "combat": 718741
+        },
+        {
+          "slot": 2,
+          "tid": 433005,
+          "combat": 622796
+        },
+        {
+          "slot": 3,
+          "tid": 301706,
+          "combat": 652043
+        },
+        {
+          "slot": 4,
+          "tid": 110211,
+          "combat": 593895
+        },
+        {
+          "slot": 5,
+          "tid": 150007,
+          "combat": 348661
+        }
+      ]
+    }
+  ]
+}

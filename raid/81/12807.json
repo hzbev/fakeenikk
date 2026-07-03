@@ -1,0 +1,37 @@
+{
+  "usn": 12807,
+  "nickname": "BB",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 1434051
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 1489273
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 1462131
+        },
+        {
+          "slot": 4,
+          "tid": 319411,
+          "combat": 1313242
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 1319341
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 1162662,
+  "nickname": "EUSTIANA",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 603058
+        },
+        {
+          "slot": 2,
+          "tid": 258305,
+          "combat": 573237
+        },
+        {
+          "slot": 3,
+          "tid": 423404,
+          "combat": 610879
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 599250
+        },
+        {
+          "slot": 5,
+          "tid": 207401,
+          "combat": 478800
+        }
+      ]
+    }
+  ]
+}

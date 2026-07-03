@@ -1,0 +1,37 @@
+{
+  "usn": 99771,
+  "nickname": "テト",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451306,
+          "combat": 757590
+        },
+        {
+          "slot": 2,
+          "tid": 422307,
+          "combat": 719827
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 898910
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 761860
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 769267
+        }
+      ]
+    }
+  ]
+}

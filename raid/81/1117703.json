@@ -1,0 +1,37 @@
+{
+  "usn": 1117703,
+  "nickname": "PAN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 1238266
+        },
+        {
+          "slot": 2,
+          "tid": 352011,
+          "combat": 1085020
+        },
+        {
+          "slot": 3,
+          "tid": 235511,
+          "combat": 1000272
+        },
+        {
+          "slot": 4,
+          "tid": 235411,
+          "combat": 1049338
+        },
+        {
+          "slot": 5,
+          "tid": 207508,
+          "combat": 1070508
+        }
+      ]
+    }
+  ]
+}

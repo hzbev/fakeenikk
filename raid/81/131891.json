@@ -1,0 +1,37 @@
+{
+  "usn": 131891,
+  "nickname": "NONAME",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 1070869
+        },
+        {
+          "slot": 2,
+          "tid": 201611,
+          "combat": 1212400
+        },
+        {
+          "slot": 3,
+          "tid": 116011,
+          "combat": 11405
+        },
+        {
+          "slot": 4,
+          "tid": 203211,
+          "combat": 776579
+        },
+        {
+          "slot": 5,
+          "tid": 150011,
+          "combat": 813164
+        }
+      ]
+    }
+  ]
+}

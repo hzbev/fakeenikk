@@ -1,0 +1,37 @@
+{
+  "usn": 685134,
+  "nickname": "GLOWING",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433003,
+          "combat": 534730
+        },
+        {
+          "slot": 2,
+          "tid": 108211,
+          "combat": 622873
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 681562
+        },
+        {
+          "slot": 4,
+          "tid": 319404,
+          "combat": 569154
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 576737
+        }
+      ]
+    }
+  ]
+}

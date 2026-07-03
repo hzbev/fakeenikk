@@ -1,0 +1,37 @@
+{
+  "usn": 1987132,
+  "nickname": "KATOU",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 604125
+        },
+        {
+          "slot": 2,
+          "tid": 422508,
+          "combat": 727425
+        },
+        {
+          "slot": 3,
+          "tid": 426205,
+          "combat": 641375
+        },
+        {
+          "slot": 4,
+          "tid": 235409,
+          "combat": 631701
+        },
+        {
+          "slot": 5,
+          "tid": 235504,
+          "combat": 554138
+        }
+      ]
+    }
+  ]
+}

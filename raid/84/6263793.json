@@ -1,0 +1,37 @@
+{
+  "usn": 6263793,
+  "nickname": "ELIXER",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451311,
+          "combat": 970615
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 926712
+        },
+        {
+          "slot": 3,
+          "tid": 426211,
+          "combat": 1006717
+        },
+        {
+          "slot": 4,
+          "tid": 422511,
+          "combat": 962770
+        },
+        {
+          "slot": 5,
+          "tid": 331610,
+          "combat": 884160
+        }
+      ]
+    }
+  ]
+}

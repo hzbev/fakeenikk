@@ -1,0 +1,37 @@
+{
+  "usn": 3552540,
+  "nickname": "KT57",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 1284337
+        },
+        {
+          "slot": 2,
+          "tid": 433010,
+          "combat": 1185717
+        },
+        {
+          "slot": 3,
+          "tid": 201611,
+          "combat": 1621396
+        },
+        {
+          "slot": 4,
+          "tid": 502305,
+          "combat": 727100
+        },
+        {
+          "slot": 5,
+          "tid": 150011,
+          "combat": 851598
+        }
+      ]
+    }
+  ]
+}

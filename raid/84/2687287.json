@@ -1,0 +1,37 @@
+{
+  "usn": 2687287,
+  "nickname": "KINTO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422304,
+          "combat": 497982
+        },
+        {
+          "slot": 2,
+          "tid": 422504,
+          "combat": 525917
+        },
+        {
+          "slot": 3,
+          "tid": 451301,
+          "combat": 499453
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 503221
+        },
+        {
+          "slot": 5,
+          "tid": 331603,
+          "combat": 403213
+        }
+      ]
+    }
+  ]
+}

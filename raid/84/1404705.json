@@ -1,0 +1,37 @@
+{
+  "usn": 1404705,
+  "nickname": "REN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433006,
+          "combat": 394413
+        },
+        {
+          "slot": 2,
+          "tid": 201611,
+          "combat": 530878
+        },
+        {
+          "slot": 3,
+          "tid": 301704,
+          "combat": 435807
+        },
+        {
+          "slot": 4,
+          "tid": 101803,
+          "combat": 452745
+        },
+        {
+          "slot": 5,
+          "tid": 451109,
+          "combat": 501409
+        }
+      ]
+    }
+  ]
+}

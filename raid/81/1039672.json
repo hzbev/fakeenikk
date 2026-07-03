@@ -1,0 +1,37 @@
+{
+  "usn": 1039672,
+  "nickname": "友人A",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 258305,
+          "combat": 1013178
+        },
+        {
+          "slot": 2,
+          "tid": 119211,
+          "combat": 1199596
+        },
+        {
+          "slot": 3,
+          "tid": 423411,
+          "combat": 1288125
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 1153650
+        },
+        {
+          "slot": 5,
+          "tid": 207407,
+          "combat": 1027460
+        }
+      ]
+    }
+  ]
+}

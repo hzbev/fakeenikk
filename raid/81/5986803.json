@@ -1,0 +1,37 @@
+{
+  "usn": 5986803,
+  "nickname": "GG3",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 423469
+        },
+        {
+          "slot": 2,
+          "tid": 331505,
+          "combat": 436761
+        },
+        {
+          "slot": 3,
+          "tid": 447106,
+          "combat": 572983
+        },
+        {
+          "slot": 4,
+          "tid": 217009,
+          "combat": 582962
+        },
+        {
+          "slot": 5,
+          "tid": 451304,
+          "combat": 514765
+        }
+      ]
+    }
+  ]
+}

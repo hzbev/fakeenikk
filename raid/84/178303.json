@@ -1,0 +1,37 @@
+{
+  "usn": 178303,
+  "nickname": "AATROX",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239006,
+          "combat": 420561
+        },
+        {
+          "slot": 2,
+          "tid": 360001,
+          "combat": 338102
+        },
+        {
+          "slot": 3,
+          "tid": 447106,
+          "combat": 566283
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 564501
+        },
+        {
+          "slot": 5,
+          "tid": 451306,
+          "combat": 557822
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 1673332,
+  "nickname": "GLITTER",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328111,
+          "combat": 772366
+        },
+        {
+          "slot": 2,
+          "tid": 328411,
+          "combat": 789487
+        },
+        {
+          "slot": 3,
+          "tid": 328304,
+          "combat": 416903
+        },
+        {
+          "slot": 4,
+          "tid": 331603,
+          "combat": 427263
+        },
+        {
+          "slot": 5,
+          "tid": 357002,
+          "combat": 475359
+        }
+      ]
+    }
+  ]
+}

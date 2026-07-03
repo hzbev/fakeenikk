@@ -1,0 +1,37 @@
+{
+  "usn": 23686,
+  "nickname": "にーにー",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235408,
+          "combat": 555735
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 654633
+        },
+        {
+          "slot": 3,
+          "tid": 235506,
+          "combat": 497071
+        },
+        {
+          "slot": 4,
+          "tid": 426206,
+          "combat": 562622
+        },
+        {
+          "slot": 5,
+          "tid": 301706,
+          "combat": 505996
+        }
+      ]
+    }
+  ]
+}

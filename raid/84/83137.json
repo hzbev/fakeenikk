@@ -1,0 +1,37 @@
+{
+  "usn": 83137,
+  "nickname": "SEBASTAN",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 426211,
+          "combat": 943390
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 921231
+        },
+        {
+          "slot": 3,
+          "tid": 447011,
+          "combat": 804420
+        },
+        {
+          "slot": 4,
+          "tid": 150011,
+          "combat": 435400
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 757485
+        }
+      ]
+    }
+  ]
+}

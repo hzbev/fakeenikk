@@ -1,0 +1,37 @@
+{
+  "usn": 672670,
+  "nickname": "N1NE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 513573
+        },
+        {
+          "slot": 2,
+          "tid": 422305,
+          "combat": 625596
+        },
+        {
+          "slot": 3,
+          "tid": 447105,
+          "combat": 657613
+        },
+        {
+          "slot": 4,
+          "tid": 584005,
+          "combat": 621661
+        },
+        {
+          "slot": 5,
+          "tid": 451309,
+          "combat": 665941
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 19567414,
+  "nickname": "エルゼ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433005,
+          "combat": 731479
+        },
+        {
+          "slot": 2,
+          "tid": 235211,
+          "combat": 869046
+        },
+        {
+          "slot": 3,
+          "tid": 447108,
+          "combat": 832603
+        },
+        {
+          "slot": 4,
+          "tid": 301703,
+          "combat": 794109
+        },
+        {
+          "slot": 5,
+          "tid": 204006,
+          "combat": 9539
+        }
+      ]
+    }
+  ]
+}

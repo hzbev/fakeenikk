@@ -1,0 +1,37 @@
+{
+  "usn": 53914,
+  "nickname": "OはふりO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 802284
+        },
+        {
+          "slot": 2,
+          "tid": 451311,
+          "combat": 911647
+        },
+        {
+          "slot": 3,
+          "tid": 583503,
+          "combat": 815377
+        },
+        {
+          "slot": 4,
+          "tid": 201611,
+          "combat": 1088955
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 876695
+        }
+      ]
+    }
+  ]
+}

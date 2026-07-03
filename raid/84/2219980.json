@@ -1,0 +1,37 @@
+{
+  "usn": 2219980,
+  "nickname": "WELT",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 360002,
+          "combat": 580419
+        },
+        {
+          "slot": 2,
+          "tid": 447103,
+          "combat": 546834
+        },
+        {
+          "slot": 3,
+          "tid": 451306,
+          "combat": 706307
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 690129
+        },
+        {
+          "slot": 5,
+          "tid": 360101,
+          "combat": 483298
+        }
+      ]
+    }
+  ]
+}

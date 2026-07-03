@@ -1,0 +1,37 @@
+{
+  "usn": 68947,
+  "nickname": "本是浮尘奈若何",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239003,
+          "combat": 509117
+        },
+        {
+          "slot": 2,
+          "tid": 217011,
+          "combat": 574783
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 585251
+        },
+        {
+          "slot": 4,
+          "tid": 360003,
+          "combat": 539777
+        },
+        {
+          "slot": 5,
+          "tid": 451303,
+          "combat": 534863
+        }
+      ]
+    }
+  ]
+}

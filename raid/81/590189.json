@@ -1,0 +1,37 @@
+{
+  "usn": 590189,
+  "nickname": "RATDOTO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201607,
+          "combat": 819407
+        },
+        {
+          "slot": 2,
+          "tid": 433008,
+          "combat": 669707
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 833501
+        },
+        {
+          "slot": 4,
+          "tid": 217010,
+          "combat": 709983
+        },
+        {
+          "slot": 5,
+          "tid": 145011,
+          "combat": 629804
+        }
+      ]
+    }
+  ]
+}

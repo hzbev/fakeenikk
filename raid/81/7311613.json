@@ -1,0 +1,37 @@
+{
+  "usn": 7311613,
+  "nickname": "広町七深",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 699074
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 845271
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 869478
+        },
+        {
+          "slot": 4,
+          "tid": 319404,
+          "combat": 667888
+        },
+        {
+          "slot": 5,
+          "tid": 451311,
+          "combat": 836113
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 7790251,
+  "nickname": "DOROJON",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235406,
+          "combat": 567378
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 748031
+        },
+        {
+          "slot": 3,
+          "tid": 235506,
+          "combat": 546528
+        },
+        {
+          "slot": 4,
+          "tid": 301706,
+          "combat": 671632
+        },
+        {
+          "slot": 5,
+          "tid": 426209,
+          "combat": 674899
+        }
+      ]
+    }
+  ]
+}

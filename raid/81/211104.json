@@ -1,0 +1,37 @@
+{
+  "usn": 211104,
+  "nickname": "梓喵",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451311,
+          "combat": 694627
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 809268
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 825645
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 822157
+        },
+        {
+          "slot": 5,
+          "tid": 447111,
+          "combat": 805460
+        }
+      ]
+    }
+  ]
+}

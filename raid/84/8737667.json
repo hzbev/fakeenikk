@@ -1,0 +1,37 @@
+{
+  "usn": 8737667,
+  "nickname": "DESTI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203207,
+          "combat": 359363
+        },
+        {
+          "slot": 2,
+          "tid": 422306,
+          "combat": 402511
+        },
+        {
+          "slot": 3,
+          "tid": 447102,
+          "combat": 413448
+        },
+        {
+          "slot": 4,
+          "tid": 217008,
+          "combat": 374530
+        },
+        {
+          "slot": 5,
+          "tid": 451307,
+          "combat": 435671
+        }
+      ]
+    }
+  ]
+}

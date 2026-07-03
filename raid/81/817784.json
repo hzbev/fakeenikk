@@ -1,0 +1,37 @@
+{
+  "usn": 817784,
+  "nickname": "魔界赘婿",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235405,
+          "combat": 504848
+        },
+        {
+          "slot": 2,
+          "tid": 422508,
+          "combat": 589449
+        },
+        {
+          "slot": 3,
+          "tid": 426207,
+          "combat": 535707
+        },
+        {
+          "slot": 4,
+          "tid": 235501,
+          "combat": 474635
+        },
+        {
+          "slot": 5,
+          "tid": 301704,
+          "combat": 590689
+        }
+      ]
+    }
+  ]
+}

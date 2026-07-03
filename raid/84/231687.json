@@ -1,0 +1,37 @@
+{
+  "usn": 231687,
+  "nickname": "ARTORIAS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201606,
+          "combat": 832166
+        },
+        {
+          "slot": 2,
+          "tid": 433009,
+          "combat": 729132
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 724699
+        },
+        {
+          "slot": 4,
+          "tid": 319401,
+          "combat": 635464
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 606196
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 93431,
+  "nickname": "YANG",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 360003,
+          "combat": 1525186
+        },
+        {
+          "slot": 2,
+          "tid": 101811,
+          "combat": 2041146
+        },
+        {
+          "slot": 3,
+          "tid": 301711,
+          "combat": 2240492
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 2319152
+        },
+        {
+          "slot": 5,
+          "tid": 360104,
+          "combat": 1698715
+        }
+      ]
+    }
+  ]
+}

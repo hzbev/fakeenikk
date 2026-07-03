@@ -1,0 +1,37 @@
+{
+  "usn": 22724448,
+  "nickname": "YUNO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301703,
+          "combat": 725687
+        },
+        {
+          "slot": 2,
+          "tid": 433009,
+          "combat": 774192
+        },
+        {
+          "slot": 3,
+          "tid": 447103,
+          "combat": 697768
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 892450
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 579351
+        }
+      ]
+    }
+  ]
+}

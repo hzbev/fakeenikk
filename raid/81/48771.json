@@ -1,0 +1,37 @@
+{
+  "usn": 48771,
+  "nickname": "黑色的睡莲",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239009,
+          "combat": 555149
+        },
+        {
+          "slot": 2,
+          "tid": 360001,
+          "combat": 566401
+        },
+        {
+          "slot": 3,
+          "tid": 447105,
+          "combat": 807089
+        },
+        {
+          "slot": 4,
+          "tid": 584004,
+          "combat": 672630
+        },
+        {
+          "slot": 5,
+          "tid": 451308,
+          "combat": 729991
+        }
+      ]
+    }
+  ]
+}

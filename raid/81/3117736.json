@@ -1,0 +1,37 @@
+{
+  "usn": 3117736,
+  "nickname": "なおくん",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301709,
+          "combat": 818434
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 824151
+        },
+        {
+          "slot": 3,
+          "tid": 447109,
+          "combat": 848130
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 815978
+        },
+        {
+          "slot": 5,
+          "tid": 150204,
+          "combat": 731740
+        }
+      ]
+    }
+  ]
+}

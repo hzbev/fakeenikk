@@ -1,0 +1,37 @@
+{
+  "usn": 1885274,
+  "nickname": "GAMEOVER",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422305,
+          "combat": 575657
+        },
+        {
+          "slot": 2,
+          "tid": 422508,
+          "combat": 626206
+        },
+        {
+          "slot": 3,
+          "tid": 301706,
+          "combat": 548790
+        },
+        {
+          "slot": 4,
+          "tid": 426203,
+          "combat": 549802
+        },
+        {
+          "slot": 5,
+          "tid": 235408,
+          "combat": 497373
+        }
+      ]
+    }
+  ]
+}

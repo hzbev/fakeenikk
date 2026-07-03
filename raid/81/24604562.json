@@ -1,0 +1,37 @@
+{
+  "usn": 24604562,
+  "nickname": "すりっP",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 796330
+        },
+        {
+          "slot": 2,
+          "tid": 235408,
+          "combat": 721093
+        },
+        {
+          "slot": 3,
+          "tid": 235505,
+          "combat": 675822
+        },
+        {
+          "slot": 4,
+          "tid": 426204,
+          "combat": 765221
+        },
+        {
+          "slot": 5,
+          "tid": 422505,
+          "combat": 800507
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 6490654,
+  "nickname": "ICEAGE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 235404,
+          "combat": 498475
+        },
+        {
+          "slot": 2,
+          "tid": 422507,
+          "combat": 618455
+        },
+        {
+          "slot": 3,
+          "tid": 235510,
+          "combat": 526262
+        },
+        {
+          "slot": 4,
+          "tid": 426204,
+          "combat": 518297
+        },
+        {
+          "slot": 5,
+          "tid": 301704,
+          "combat": 513641
+        }
+      ]
+    }
+  ]
+}

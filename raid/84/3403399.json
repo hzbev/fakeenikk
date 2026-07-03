@@ -1,0 +1,37 @@
+{
+  "usn": 3403399,
+  "nickname": "祎浅鞠",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433006,
+          "combat": 413212
+        },
+        {
+          "slot": 2,
+          "tid": 301704,
+          "combat": 493366
+        },
+        {
+          "slot": 3,
+          "tid": 426206,
+          "combat": 484683
+        },
+        {
+          "slot": 4,
+          "tid": 422504,
+          "combat": 429331
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 524342
+        }
+      ]
+    }
+  ]
+}

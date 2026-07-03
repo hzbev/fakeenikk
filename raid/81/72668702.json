@@ -1,0 +1,37 @@
+{
+  "usn": 72668702,
+  "nickname": "NAOS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301708,
+          "combat": 960349
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 953875
+        },
+        {
+          "slot": 3,
+          "tid": 150204,
+          "combat": 718387
+        },
+        {
+          "slot": 4,
+          "tid": 447111,
+          "combat": 1126753
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 972689
+        }
+      ]
+    }
+  ]
+}

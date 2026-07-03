@@ -1,0 +1,37 @@
+{
+  "usn": 867683,
+  "nickname": "西奈",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239011,
+          "combat": 879406
+        },
+        {
+          "slot": 2,
+          "tid": 360004,
+          "combat": 781238
+        },
+        {
+          "slot": 3,
+          "tid": 584007,
+          "combat": 856415
+        },
+        {
+          "slot": 4,
+          "tid": 447111,
+          "combat": 925036
+        },
+        {
+          "slot": 5,
+          "tid": 451309,
+          "combat": 830480
+        }
+      ]
+    }
+  ]
+}

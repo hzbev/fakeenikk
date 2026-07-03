@@ -1,0 +1,37 @@
+{
+  "usn": 6400,
+  "nickname": "NUMBERS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 671709
+        },
+        {
+          "slot": 2,
+          "tid": 101802,
+          "combat": 594595
+        },
+        {
+          "slot": 3,
+          "tid": 235504,
+          "combat": 556489
+        },
+        {
+          "slot": 4,
+          "tid": 235408,
+          "combat": 578872
+        },
+        {
+          "slot": 5,
+          "tid": 207511,
+          "combat": 683876
+        }
+      ]
+    }
+  ]
+}

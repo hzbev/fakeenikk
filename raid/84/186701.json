@@ -1,0 +1,37 @@
+{
+  "usn": 186701,
+  "nickname": "WYL",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 612185
+        },
+        {
+          "slot": 2,
+          "tid": 426204,
+          "combat": 623270
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 792016
+        },
+        {
+          "slot": 4,
+          "tid": 422304,
+          "combat": 580339
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 720465
+        }
+      ]
+    }
+  ]
+}

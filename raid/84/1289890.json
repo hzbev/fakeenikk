@@ -1,0 +1,37 @@
+{
+  "usn": 1289890,
+  "nickname": "ICE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328111,
+          "combat": 966108
+        },
+        {
+          "slot": 2,
+          "tid": 426211,
+          "combat": 1096851
+        },
+        {
+          "slot": 3,
+          "tid": 235511,
+          "combat": 833725
+        },
+        {
+          "slot": 4,
+          "tid": 235410,
+          "combat": 975662
+        },
+        {
+          "slot": 5,
+          "tid": 352011,
+          "combat": 915036
+        }
+      ]
+    }
+  ]
+}

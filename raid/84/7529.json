@@ -1,0 +1,37 @@
+{
+  "usn": 7529,
+  "nickname": "KIRRAN58",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422303,
+          "combat": 730500
+        },
+        {
+          "slot": 2,
+          "tid": 426206,
+          "combat": 902677
+        },
+        {
+          "slot": 3,
+          "tid": 422509,
+          "combat": 849538
+        },
+        {
+          "slot": 4,
+          "tid": 451302,
+          "combat": 708376
+        },
+        {
+          "slot": 5,
+          "tid": 150003,
+          "combat": 367052
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 221364,
+  "nickname": "YY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451311,
+          "combat": 813920
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 859246
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 904745
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 858403
+        },
+        {
+          "slot": 5,
+          "tid": 331602,
+          "combat": 603901
+        }
+      ]
+    }
+  ]
+}

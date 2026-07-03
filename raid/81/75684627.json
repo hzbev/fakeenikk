@@ -1,0 +1,37 @@
+{
+  "usn": 75684627,
+  "nickname": "ねぎ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 239011,
+          "combat": 833616
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 729930
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 828101
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 607589
+        },
+        {
+          "slot": 5,
+          "tid": 451305,
+          "combat": 616903
+        }
+      ]
+    }
+  ]
+}

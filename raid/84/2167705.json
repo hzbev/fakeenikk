@@ -1,0 +1,37 @@
+{
+  "usn": 2167705,
+  "nickname": "MORDWYL",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433006,
+          "combat": 525582
+        },
+        {
+          "slot": 2,
+          "tid": 201610,
+          "combat": 632410
+        },
+        {
+          "slot": 3,
+          "tid": 451302,
+          "combat": 467937
+        },
+        {
+          "slot": 4,
+          "tid": 447010,
+          "combat": 553206
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 565910
+        }
+      ]
+    }
+  ]
+}

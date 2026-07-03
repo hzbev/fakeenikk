@@ -1,0 +1,37 @@
+{
+  "usn": 2648728,
+  "nickname": "BAMI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203210,
+          "combat": 394912
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 512129
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 557144
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 620692
+        },
+        {
+          "slot": 5,
+          "tid": 451306,
+          "combat": 559123
+        }
+      ]
+    }
+  ]
+}

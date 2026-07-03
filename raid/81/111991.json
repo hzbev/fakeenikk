@@ -1,0 +1,37 @@
+{
+  "usn": 111991,
+  "nickname": "きむてぃー",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 217011,
+          "combat": 677690
+        },
+        {
+          "slot": 2,
+          "tid": 239004,
+          "combat": 570314
+        },
+        {
+          "slot": 3,
+          "tid": 451311,
+          "combat": 753125
+        },
+        {
+          "slot": 4,
+          "tid": 447111,
+          "combat": 788466
+        },
+        {
+          "slot": 5,
+          "tid": 422305,
+          "combat": 631453
+        }
+      ]
+    }
+  ]
+}

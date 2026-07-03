@@ -1,0 +1,37 @@
+{
+  "usn": 6154375,
+  "nickname": "SOYSAUS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422503,
+          "combat": 523253
+        },
+        {
+          "slot": 2,
+          "tid": 235407,
+          "combat": 408511
+        },
+        {
+          "slot": 3,
+          "tid": 301704,
+          "combat": 417668
+        },
+        {
+          "slot": 4,
+          "tid": 235503,
+          "combat": 431002
+        },
+        {
+          "slot": 5,
+          "tid": 426203,
+          "combat": 465552
+        }
+      ]
+    }
+  ]
+}

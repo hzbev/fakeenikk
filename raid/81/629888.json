@@ -1,0 +1,37 @@
+{
+  "usn": 629888,
+  "nickname": "かすとろーる",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 648519
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 760030
+        },
+        {
+          "slot": 3,
+          "tid": 301708,
+          "combat": 822605
+        },
+        {
+          "slot": 4,
+          "tid": 426204,
+          "combat": 651769
+        },
+        {
+          "slot": 5,
+          "tid": 150005,
+          "combat": 310844
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 2213908,
+  "nickname": "SNOWRAGE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203211,
+          "combat": 422036
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 545194
+        },
+        {
+          "slot": 3,
+          "tid": 422510,
+          "combat": 669914
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 601564
+        },
+        {
+          "slot": 5,
+          "tid": 451310,
+          "combat": 638712
+        }
+      ]
+    }
+  ]
+}

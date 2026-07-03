@@ -1,0 +1,37 @@
+{
+  "usn": 68579922,
+  "nickname": "王の頭脳N",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422304,
+          "combat": 507832
+        },
+        {
+          "slot": 2,
+          "tid": 422508,
+          "combat": 660367
+        },
+        {
+          "slot": 3,
+          "tid": 301705,
+          "combat": 535232
+        },
+        {
+          "slot": 4,
+          "tid": 426205,
+          "combat": 607093
+        },
+        {
+          "slot": 5,
+          "tid": 150003,
+          "combat": 261673
+        }
+      ]
+    }
+  ]
+}

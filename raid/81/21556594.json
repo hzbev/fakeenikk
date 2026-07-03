@@ -1,0 +1,37 @@
+{
+  "usn": 21556594,
+  "nickname": "LONY",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 993380
+        },
+        {
+          "slot": 2,
+          "tid": 422307,
+          "combat": 868206
+        },
+        {
+          "slot": 3,
+          "tid": 422508,
+          "combat": 893188
+        },
+        {
+          "slot": 4,
+          "tid": 426207,
+          "combat": 875028
+        },
+        {
+          "slot": 5,
+          "tid": 433011,
+          "combat": 787625
+        }
+      ]
+    }
+  ]
+}

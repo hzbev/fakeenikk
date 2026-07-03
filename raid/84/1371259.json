@@ -1,0 +1,37 @@
+{
+  "usn": 1371259,
+  "nickname": "PETRI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201607,
+          "combat": 663459
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 562344
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 649047
+        },
+        {
+          "slot": 4,
+          "tid": 319401,
+          "combat": 517610
+        },
+        {
+          "slot": 5,
+          "tid": 150204,
+          "combat": 535767
+        }
+      ]
+    }
+  ]
+}

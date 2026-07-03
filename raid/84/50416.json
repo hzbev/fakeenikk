@@ -1,0 +1,37 @@
+{
+  "usn": 50416,
+  "nickname": "JAMROCK",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451301,
+          "combat": 538819
+        },
+        {
+          "slot": 2,
+          "tid": 422304,
+          "combat": 584078
+        },
+        {
+          "slot": 3,
+          "tid": 422507,
+          "combat": 691320
+        },
+        {
+          "slot": 4,
+          "tid": 583504,
+          "combat": 609658
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 638898
+        }
+      ]
+    }
+  ]
+}

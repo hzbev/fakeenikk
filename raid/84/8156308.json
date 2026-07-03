@@ -1,0 +1,37 @@
+{
+  "usn": 8156308,
+  "nickname": "MANHAM",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433011,
+          "combat": 1175839
+        },
+        {
+          "slot": 2,
+          "tid": 583511,
+          "combat": 1323921
+        },
+        {
+          "slot": 3,
+          "tid": 451311,
+          "combat": 1292493
+        },
+        {
+          "slot": 4,
+          "tid": 583406,
+          "combat": 1057372
+        },
+        {
+          "slot": 5,
+          "tid": 502310,
+          "combat": 855037
+        }
+      ]
+    }
+  ]
+}

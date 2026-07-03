@@ -1,0 +1,37 @@
+{
+  "usn": 19309,
+  "nickname": "ノンクロ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 978678
+        },
+        {
+          "slot": 2,
+          "tid": 201611,
+          "combat": 1223825
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 1029891
+        },
+        {
+          "slot": 4,
+          "tid": 433011,
+          "combat": 853843
+        },
+        {
+          "slot": 5,
+          "tid": 150011,
+          "combat": 641527
+        }
+      ]
+    }
+  ]
+}

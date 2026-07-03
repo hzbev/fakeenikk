@@ -1,0 +1,37 @@
+{
+  "usn": 1635266,
+  "nickname": "那什么叫呢",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203204,
+          "combat": 316308
+        },
+        {
+          "slot": 2,
+          "tid": 584001,
+          "combat": 42840
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 518909
+        },
+        {
+          "slot": 4,
+          "tid": 433003,
+          "combat": 447184
+        },
+        {
+          "slot": 5,
+          "tid": 451304,
+          "combat": 490433
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 71778356,
+  "nickname": "いしかわ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433007,
+          "combat": 743803
+        },
+        {
+          "slot": 2,
+          "tid": 451108,
+          "combat": 852955
+        },
+        {
+          "slot": 3,
+          "tid": 301705,
+          "combat": 792554
+        },
+        {
+          "slot": 4,
+          "tid": 301511,
+          "combat": 900258
+        },
+        {
+          "slot": 5,
+          "tid": 218303,
+          "combat": 718117
+        }
+      ]
+    }
+  ]
+}

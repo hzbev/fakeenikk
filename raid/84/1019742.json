@@ -1,0 +1,37 @@
+{
+  "usn": 1019742,
+  "nickname": "ONIHIGE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301702,
+          "combat": 516143
+        },
+        {
+          "slot": 2,
+          "tid": 422507,
+          "combat": 622321
+        },
+        {
+          "slot": 3,
+          "tid": 426205,
+          "combat": 558564
+        },
+        {
+          "slot": 4,
+          "tid": 422301,
+          "combat": 473672
+        },
+        {
+          "slot": 5,
+          "tid": 150004,
+          "combat": 266653
+        }
+      ]
+    }
+  ]
+}

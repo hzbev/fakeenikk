@@ -1,0 +1,37 @@
+{
+  "usn": 9153003,
+  "nickname": "KEYZR",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433002,
+          "combat": 345700
+        },
+        {
+          "slot": 2,
+          "tid": 426205,
+          "combat": 408529
+        },
+        {
+          "slot": 3,
+          "tid": 451303,
+          "combat": 368754
+        },
+        {
+          "slot": 4,
+          "tid": 422509,
+          "combat": 460561
+        },
+        {
+          "slot": 5,
+          "tid": 217004,
+          "combat": 370591
+        }
+      ]
+    }
+  ]
+}

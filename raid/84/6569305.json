@@ -1,0 +1,37 @@
+{
+  "usn": 6569305,
+  "nickname": "FTD",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422311,
+          "combat": 1174980
+        },
+        {
+          "slot": 2,
+          "tid": 422511,
+          "combat": 1351159
+        },
+        {
+          "slot": 3,
+          "tid": 451311,
+          "combat": 1249912
+        },
+        {
+          "slot": 4,
+          "tid": 426211,
+          "combat": 1200058
+        },
+        {
+          "slot": 5,
+          "tid": 433011,
+          "combat": 1035912
+        }
+      ]
+    }
+  ]
+}

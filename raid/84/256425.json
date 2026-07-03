@@ -1,0 +1,37 @@
+{
+  "usn": 256425,
+  "nickname": "SLYLAND",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 678848
+        },
+        {
+          "slot": 2,
+          "tid": 433009,
+          "combat": 657152
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 739558
+        },
+        {
+          "slot": 4,
+          "tid": 426203,
+          "combat": 631795
+        },
+        {
+          "slot": 5,
+          "tid": 150005,
+          "combat": 316648
+        }
+      ]
+    }
+  ]
+}

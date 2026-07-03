@@ -1,0 +1,37 @@
+{
+  "usn": 220250,
+  "nickname": "HIKKI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 433007,
+          "combat": 563073
+        },
+        {
+          "slot": 2,
+          "tid": 328110,
+          "combat": 592875
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 660950
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 579339
+        },
+        {
+          "slot": 5,
+          "tid": 145011,
+          "combat": 545735
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 6705208,
+  "nickname": "OQPGECC",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203207,
+          "combat": 687528
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 811749
+        },
+        {
+          "slot": 3,
+          "tid": 447104,
+          "combat": 756125
+        },
+        {
+          "slot": 4,
+          "tid": 451310,
+          "combat": 790077
+        },
+        {
+          "slot": 5,
+          "tid": 217011,
+          "combat": 853389
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "usn": 350064,
+  "nickname": "冬马",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 203207,
+          "combat": 333983
+        },
+        {
+          "slot": 2,
+          "tid": 433007,
+          "combat": 435170
+        },
+        {
+          "slot": 3,
+          "tid": 447106,
+          "combat": 550502
+        },
+        {
+          "slot": 4,
+          "tid": 217007,
+          "combat": 477052
+        },
+        {
+          "slot": 5,
+          "tid": 451306,
+          "combat": 515078
+        }
+      ]
+    }
+  ]
+}

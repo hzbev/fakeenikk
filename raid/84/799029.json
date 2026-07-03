@@ -1,0 +1,37 @@
+{
+  "usn": 799029,
+  "nickname": "WINCHE1L",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 819172
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 722687
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 780878
+        },
+        {
+          "slot": 4,
+          "tid": 319403,
+          "combat": 613855
+        },
+        {
+          "slot": 5,
+          "tid": 150201,
+          "combat": 569010
+        }
+      ]
+    }
+  ]
+}

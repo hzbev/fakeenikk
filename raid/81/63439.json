@@ -1,0 +1,37 @@
+{
+  "usn": 63439,
+  "nickname": "ITSUKI",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 826822
+        },
+        {
+          "slot": 2,
+          "tid": 258311,
+          "combat": 767766
+        },
+        {
+          "slot": 3,
+          "tid": 423411,
+          "combat": 1006948
+        },
+        {
+          "slot": 4,
+          "tid": 110111,
+          "combat": 622211
+        },
+        {
+          "slot": 5,
+          "tid": 207409,
+          "combat": 751856
+        }
+      ]
+    }
+  ]
+}

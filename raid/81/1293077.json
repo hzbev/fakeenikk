@@ -1,0 +1,37 @@
+{
+  "usn": 1293077,
+  "nickname": "キリヤ",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 451307,
+          "combat": 782651
+        },
+        {
+          "slot": 2,
+          "tid": 426206,
+          "combat": 831394
+        },
+        {
+          "slot": 3,
+          "tid": 235408,
+          "combat": 810673
+        },
+        {
+          "slot": 4,
+          "tid": 235506,
+          "combat": 612280
+        },
+        {
+          "slot": 5,
+          "tid": 422508,
+          "combat": 813540
+        }
+      ]
+    }
+  ]
+}

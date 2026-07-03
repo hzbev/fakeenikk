@@ -1,0 +1,37 @@
+{
+  "usn": 7636006,
+  "nickname": "BEARSIZE",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 423111,
+          "combat": 832975
+        },
+        {
+          "slot": 2,
+          "tid": 258105,
+          "combat": 637759
+        },
+        {
+          "slot": 3,
+          "tid": 235211,
+          "combat": 750151
+        },
+        {
+          "slot": 4,
+          "tid": 328111,
+          "combat": 667779
+        },
+        {
+          "slot": 5,
+          "tid": 422309,
+          "combat": 720265
+        }
+      ]
+    }
+  ]
+}

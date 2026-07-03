@@ -1,0 +1,37 @@
+{
+  "usn": 7359736,
+  "nickname": "DARUGIS",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301701,
+          "combat": 388614
+        },
+        {
+          "slot": 2,
+          "tid": 235407,
+          "combat": 410790
+        },
+        {
+          "slot": 3,
+          "tid": 426202,
+          "combat": 417671
+        },
+        {
+          "slot": 4,
+          "tid": 140303,
+          "combat": 347895
+        },
+        {
+          "slot": 5,
+          "tid": 235505,
+          "combat": 371831
+        }
+      ]
+    }
+  ]
+}

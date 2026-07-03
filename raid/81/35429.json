@@ -1,0 +1,37 @@
+{
+  "usn": 35429,
+  "nickname": "BILL",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201610,
+          "combat": 663204
+        },
+        {
+          "slot": 2,
+          "tid": 451406,
+          "combat": 598655
+        },
+        {
+          "slot": 3,
+          "tid": 140311,
+          "combat": 585578
+        },
+        {
+          "slot": 4,
+          "tid": 447010,
+          "combat": 680632
+        },
+        {
+          "slot": 5,
+          "tid": 116203,
+          "combat": 596541
+        }
+      ]
+    }
+  ]
+}

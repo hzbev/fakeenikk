@@ -1,0 +1,37 @@
+{
+  "usn": 74184450,
+  "nickname": "AZERO",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301711,
+          "combat": 730515
+        },
+        {
+          "slot": 2,
+          "tid": 422311,
+          "combat": 596522
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 715860
+        },
+        {
+          "slot": 4,
+          "tid": 426201,
+          "combat": 532430
+        },
+        {
+          "slot": 5,
+          "tid": 235411,
+          "combat": 672426
+        }
+      ]
+    }
+  ]
+}

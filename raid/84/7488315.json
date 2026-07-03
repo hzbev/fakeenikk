@@ -1,0 +1,37 @@
+{
+  "usn": 7488315,
+  "nickname": "罗斯门德",
+  "total_damage": 0,
+  "teams": [
+    {
+      "damage": 359116617,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328105,
+          "combat": 461307
+        },
+        {
+          "slot": 2,
+          "tid": 423207,
+          "combat": 456869
+        },
+        {
+          "slot": 3,
+          "tid": 319111,
+          "combat": 539246
+        },
+        {
+          "slot": 4,
+          "tid": 201609,
+          "combat": 530681
+        },
+        {
+          "slot": 5,
+          "tid": 101806,
+          "combat": 487378
+        }
+      ]
+    }
+  ]
+}
