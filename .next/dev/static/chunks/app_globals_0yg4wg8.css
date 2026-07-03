@@ -29,7 +29,7 @@ button, input, select {
 
 main {
   border-inline: 1px solid var(--line);
-  max-width: 1420px;
+  max-width: 1280px;
   min-height: 100vh;
   margin: 0 auto;
 }
@@ -39,8 +39,8 @@ main {
   border-bottom: 1px solid var(--line);
   background: #0d1011;
   grid-template-columns: minmax(240px, 1fr) auto auto auto;
-  gap: 16px;
-  padding: 20px 24px 18px;
+  gap: 14px;
+  padding: 16px 20px 14px;
   display: grid;
   position: sticky;
   top: 0;
@@ -48,7 +48,7 @@ main {
 
 .search, select, .tabs {
   background: var(--panel);
-  min-height: 56px;
+  min-height: 50px;
   color: var(--text);
   border: 0;
   border-radius: 8px;
@@ -57,14 +57,14 @@ main {
 
 .search {
   align-items: center;
-  gap: 18px;
-  padding: 0 24px;
+  gap: 14px;
+  padding: 0 18px;
   display: flex;
 }
 
 .search span {
   color: var(--muted);
-  font-size: 42px;
+  font-size: 32px;
   line-height: 0;
 }
 
@@ -74,7 +74,7 @@ main {
   background: none;
   border: 0;
   outline: 0;
-  font-size: 24px;
+  font-size: 21px;
 }
 
 .search input::placeholder {
@@ -82,8 +82,8 @@ main {
 }
 
 select {
-  padding: 0 24px;
-  font-size: 24px;
+  padding: 0 18px;
+  font-size: 21px;
 }
 
 .tabs {
@@ -97,7 +97,7 @@ select {
   background: none;
   border: 0;
   border-radius: 6px;
-  padding: 0 22px;
+  padding: 0 18px;
 }
 
 .tabs .active {
@@ -106,7 +106,7 @@ select {
 }
 
 .table, .units {
-  padding: 0 24px 36px;
+  padding: 0 20px 32px;
 }
 
 .teamRow, .unitRow {
@@ -135,31 +135,31 @@ select {
 
 .teamRow {
   cursor: pointer;
-  grid-template-columns: 70px 330px minmax(130px, 1fr) 120px 160px 70px 28px;
-  min-height: 88px;
+  grid-template-columns: 62px 300px minmax(120px, 1fr) 110px 150px 64px 24px;
+  min-height: 78px;
 }
 
 .playerRow {
-  grid-template-columns: 74px minmax(220px, 1fr) 160px 170px 130px 32px;
+  grid-template-columns: 64px minmax(200px, 1fr) 145px 155px 118px 28px;
 }
 
 .rank {
   color: #dce3ea;
-  font-size: 26px;
+  font-size: 23px;
   font-weight: 700;
 }
 
 .icons {
   flex-flow: row;
-  gap: 14px;
+  gap: 12px;
   display: flex;
 }
 
 .unit {
   --ring: #3197f5;
-  flex: 0 0 58px;
-  width: 58px;
-  height: 58px;
+  flex: 0 0 52px;
+  width: 52px;
+  height: 52px;
   position: relative;
 }
 
@@ -186,8 +186,8 @@ select {
 .unit img {
   border: 3px solid var(--ring);
   object-fit: cover;
-  width: 58px;
-  height: 58px;
+  width: 52px;
+  height: 52px;
   box-shadow: 0 0 0 2px #050607, 0 0 0 4px color-mix(in srgb, var(--ring) 55%, #050607);
   background: #1c2124;
   border-radius: 50%;
@@ -199,11 +199,11 @@ select {
   text-shadow: 0 1px 2px #000;
   background: linear-gradient(135deg, #db35c7, #7a238f);
   border: 1px solid #792189;
-  min-width: 28px;
+  min-width: 25px;
   padding: 0 3px;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 900;
-  line-height: 21px;
+  line-height: 19px;
   position: absolute;
   bottom: -7px;
   right: -6px;
@@ -222,18 +222,18 @@ select {
 }
 
 .best strong {
-  font-size: 25px;
+  font-size: 22px;
 }
 
 .best em {
   color: var(--muted);
-  font-size: 22px;
+  font-size: 20px;
   font-style: normal;
 }
 
 .damage, .cp {
   white-space: nowrap;
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 800;
 }
 
@@ -241,32 +241,32 @@ select {
   border-left: 1px solid var(--line);
   justify-self: center;
   padding-left: 20px;
-  font-size: 26px;
+  font-size: 22px;
 }
 
 .plus {
   color: var(--muted);
-  font-size: 34px;
+  font-size: 30px;
 }
 
 .runs {
   border-bottom: 1px solid var(--line);
   gap: 10px;
-  padding: 0 0 18px 74px;
+  padding: 0 0 16px 64px;
   display: grid;
 }
 
 .run {
   color: var(--muted);
-  grid-template-columns: 360px 190px 170px 90px;
+  grid-template-columns: 330px 170px 155px 80px;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
   font-size: 20px;
   display: grid;
 }
 
 .teamRun {
-  min-height: 72px;
+  min-height: 64px;
 }
 
 .run .icons {
@@ -283,23 +283,23 @@ select {
 }
 
 .unitRow {
-  grid-template-columns: 74px 68px minmax(200px, 1fr) 80px 160px 100px;
-  min-height: 78px;
+  grid-template-columns: 64px 60px minmax(180px, 1fr) 72px 145px 90px;
+  min-height: 68px;
 }
 
 .unitRow strong {
-  font-size: 24px;
+  font-size: 21px;
 }
 
 .unitRow em {
   color: var(--muted);
-  font-size: 22px;
+  font-size: 19px;
   font-style: normal;
 }
 
 .unitRow span:not(.rank):not(.unit) {
   color: var(--muted);
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .unitRow > b {
@@ -307,21 +307,21 @@ select {
   border-radius: 4px;
   justify-self: start;
   padding: 4px 10px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .pager {
   justify-content: center;
   gap: 8px;
-  padding: 0 32px 44px;
+  padding: 0 20px 36px;
   display: flex;
 }
 
 .pager button {
   border: 1px solid var(--line);
   background: var(--panel);
-  min-width: 44px;
-  min-height: 40px;
+  min-width: 38px;
+  min-height: 34px;
   color: var(--muted);
   cursor: pointer;
   border-radius: 6px;

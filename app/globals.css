@@ -27,7 +27,7 @@ select {
 }
 
 main {
-  max-width: 1420px;
+  max-width: 1280px;
   margin: 0 auto;
   min-height: 100vh;
   border-inline: 1px solid var(--line);
@@ -39,8 +39,8 @@ main {
   z-index: 2;
   display: grid;
   grid-template-columns: minmax(240px, 1fr) auto auto auto;
-  gap: 16px;
-  padding: 20px 24px 18px;
+  gap: 14px;
+  padding: 16px 20px 14px;
   background: #0d1011;
   border-bottom: 1px solid var(--line);
 }
@@ -48,7 +48,7 @@ main {
 .search,
 select,
 .tabs {
-  min-height: 56px;
+  min-height: 50px;
   border: 0;
   border-radius: 8px;
   background: var(--panel);
@@ -59,13 +59,13 @@ select,
 .search {
   display: flex;
   align-items: center;
-  gap: 18px;
-  padding: 0 24px;
+  gap: 14px;
+  padding: 0 18px;
 }
 
 .search span {
   color: var(--muted);
-  font-size: 42px;
+  font-size: 32px;
   line-height: 0;
 }
 
@@ -75,7 +75,7 @@ select,
   outline: 0;
   background: transparent;
   color: var(--text);
-  font-size: 24px;
+  font-size: 21px;
 }
 
 .search input::placeholder {
@@ -83,8 +83,8 @@ select,
 }
 
 select {
-  padding: 0 24px;
-  font-size: 24px;
+  padding: 0 18px;
+  font-size: 21px;
 }
 
 .tabs {
@@ -95,7 +95,7 @@ select {
 .tabs button {
   border: 0;
   border-radius: 6px;
-  padding: 0 22px;
+  padding: 0 18px;
   background: transparent;
   color: var(--muted);
   cursor: pointer;
@@ -108,7 +108,7 @@ select {
 
 .table,
 .units {
-  padding: 0 24px 36px;
+  padding: 0 20px 32px;
 }
 
 .teamRow,
@@ -141,17 +141,17 @@ select {
 }
 
 .teamRow {
-  grid-template-columns: 70px 330px minmax(130px, 1fr) 120px 160px 70px 28px;
-  min-height: 88px;
+  grid-template-columns: 62px 300px minmax(120px, 1fr) 110px 150px 64px 24px;
+  min-height: 78px;
   cursor: pointer;
 }
 
 .playerRow {
-  grid-template-columns: 74px minmax(220px, 1fr) 160px 170px 130px 32px;
+  grid-template-columns: 64px minmax(200px, 1fr) 145px 155px 118px 28px;
 }
 
 .rank {
-  font-size: 26px;
+  font-size: 23px;
   font-weight: 700;
   color: #dce3ea;
 }
@@ -160,14 +160,14 @@ select {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  gap: 14px;
+  gap: 12px;
 }
 
 .unit {
   position: relative;
-  flex: 0 0 58px;
-  width: 58px;
-  height: 58px;
+  flex: 0 0 52px;
+  width: 52px;
+  height: 52px;
   --ring: #3197f5;
 }
 
@@ -192,8 +192,8 @@ select {
 }
 
 .unit img {
-  width: 58px;
-  height: 58px;
+  width: 52px;
+  height: 52px;
   border: 3px solid var(--ring);
   border-radius: 50%;
   object-fit: cover;
@@ -205,15 +205,15 @@ select {
   position: absolute;
   right: -6px;
   bottom: -7px;
-  min-width: 28px;
+  min-width: 25px;
   padding: 0 3px;
   transform: skew(-8deg);
   border: 1px solid #792189;
   background: linear-gradient(135deg, #db35c7, #7a238f);
   color: white;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 900;
-  line-height: 21px;
+  line-height: 19px;
   text-align: center;
   text-shadow: 0 1px 2px #000;
 }
@@ -234,18 +234,18 @@ select {
 }
 
 .best strong {
-  font-size: 25px;
+  font-size: 22px;
 }
 
 .best em {
   color: var(--muted);
-  font-size: 22px;
+  font-size: 20px;
   font-style: normal;
 }
 
 .damage,
 .cp {
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 800;
   white-space: nowrap;
 }
@@ -254,32 +254,32 @@ select {
   justify-self: center;
   padding-left: 20px;
   border-left: 1px solid var(--line);
-  font-size: 26px;
+  font-size: 22px;
 }
 
 .plus {
   color: var(--muted);
-  font-size: 34px;
+  font-size: 30px;
 }
 
 .runs {
   display: grid;
   gap: 10px;
-  padding: 0 0 18px 74px;
+  padding: 0 0 16px 64px;
   border-bottom: 1px solid var(--line);
 }
 
 .run {
   display: grid;
-  grid-template-columns: 360px 190px 170px 90px;
-  gap: 14px;
+  grid-template-columns: 330px 170px 155px 80px;
+  gap: 12px;
   align-items: center;
   color: var(--muted);
   font-size: 20px;
 }
 
 .teamRun {
-  min-height: 72px;
+  min-height: 64px;
 }
 
 .run .icons {
@@ -296,23 +296,23 @@ select {
 }
 
 .unitRow {
-  grid-template-columns: 74px 68px minmax(200px, 1fr) 80px 160px 100px;
-  min-height: 78px;
+  grid-template-columns: 64px 60px minmax(180px, 1fr) 72px 145px 90px;
+  min-height: 68px;
 }
 
 .unitRow strong {
-  font-size: 24px;
+  font-size: 21px;
 }
 
 .unitRow em {
   color: var(--muted);
-  font-size: 22px;
+  font-size: 19px;
   font-style: normal;
 }
 
 .unitRow span:not(.rank):not(.unit) {
   color: var(--muted);
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .unitRow > b {
@@ -320,19 +320,19 @@ select {
   border-radius: 4px;
   padding: 4px 10px;
   background: var(--good);
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .pager {
   display: flex;
   justify-content: center;
   gap: 8px;
-  padding: 0 32px 44px;
+  padding: 0 20px 36px;
 }
 
 .pager button {
-  min-width: 44px;
-  min-height: 40px;
+  min-width: 38px;
+  min-height: 34px;
   border: 1px solid var(--line);
   border-radius: 6px;
   background: var(--panel);

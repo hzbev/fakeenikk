@@ -18,7 +18,7 @@ export default function RaidBoard({ data }) {
   const [tab, setTab] = useState("players");
   const [query, setQuery] = useState("");
   const [region, setRegion] = useState("ALL");
-  const [limit, setLimit] = useState(50);
+  const [limit, setLimit] = useState(10);
   const [page, setPage] = useState(1);
   const [open, setOpen] = useState(null);
 
