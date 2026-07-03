@@ -169,14 +169,26 @@ function getRaidData() {
             }
         }
     }
+    const sortedPlayers = players.map((player)=>({
+            ...player,
+            teams: player.teams.map((team)=>({
+                    ...team,
+                    parses: groups.get(team.key)?.parses ?? 1
+                })).sort((a, b)=>b.damage - a.damage)
+        })).sort((a, b)=>b.damage - a.damage);
+    const fakePlayer = {
+        key: "fake-apple",
+        region: "GLB",
+        usn: "apple",
+        nickname: "apple",
+        damage: 10_000_000_000_000,
+        displayDamage: "10000B",
+        combat: 0,
+        teams: []
+    };
     return {
-        players: players.map((player)=>({
-                ...player,
-                teams: player.teams.map((team)=>({
-                        ...team,
-                        parses: groups.get(team.key)?.parses ?? 1
-                    })).sort((a, b)=>b.damage - a.damage)
-            })).sort((a, b)=>b.damage - a.damage),
+        players: sortedPlayers,
+        fakePlayer,
         teams: [
             ...groups.values()
         ].filter((team)=>team.parses > 1).sort((a, b)=>b.parses - a.parses || b.best.damage - a.best.damage),

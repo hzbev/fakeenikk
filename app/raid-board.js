@@ -18,7 +18,7 @@ export default function RaidBoard({ data }) {
   const [tab, setTab] = useState("players");
   const [query, setQuery] = useState("");
   const [region, setRegion] = useState("ALL");
-  const [limit, setLimit] = useState(10);
+  const [limit, setLimit] = useState(50);
   const [page, setPage] = useState(1);
   const [open, setOpen] = useState(null);
 
@@ -39,7 +39,10 @@ export default function RaidBoard({ data }) {
   }, [data.units, query]);
   const rows = tab === "players" ? players : units;
   const pageCount = Math.max(1, Math.ceil(rows.length / limit));
-  const pageRows = rows.slice((page - 1) * limit, page * limit);
+  const pageRows =
+    tab === "players" && page === 1
+      ? [...rows.slice(0, limit), data.fakePlayer]
+      : rows.slice((page - 1) * limit, page * limit);
   const pages = Array.from({ length: pageCount }, (_, i) => i + 1).filter((n) => n === 1 || n === pageCount || Math.abs(n - page) <= 2);
 
   useEffect(() => {
@@ -88,7 +91,7 @@ export default function RaidBoard({ data }) {
             const expanded = open === player.key;
             const rank = (page - 1) * limit + index + 1;
             return (
-              <article className="rowWrap" key={player.key}>
+              <article className={`rowWrap ${player.key === "fake-apple" ? "fakeRow" : ""}`} key={player.key}>
                 <button className="teamRow playerRow" onClick={() => setOpen(expanded ? null : player.key)}>
                   <span className="rank">#{rank}</span>
                   <span className="best">
@@ -97,7 +100,7 @@ export default function RaidBoard({ data }) {
                       {player.region} {player.usn}
                     </em>
                   </span>
-                  <span className="damage">{compact.format(player.damage)}</span>
+                  <span className="damage">{player.displayDamage ?? compact.format(player.damage)}</span>
                   <span className="cp">{compact.format(player.combat)} CP</span>
                   <span className="parse">{player.teams.length} teams</span>
                   <span className="plus">{expanded ? "×" : "+"}</span>

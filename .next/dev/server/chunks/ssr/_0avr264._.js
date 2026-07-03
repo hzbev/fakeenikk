@@ -49,7 +49,7 @@ function RaidBoard({ data }) {
     const [tab, setTab] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("players");
     const [query, setQuery] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("");
     const [region, setRegion] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])("ALL");
-    const [limit, setLimit] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(10);
+    const [limit, setLimit] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(50);
     const [page, setPage] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(1);
     const [open, setOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(null);
     const players = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useMemo"])(()=>{
@@ -77,7 +77,10 @@ function RaidBoard({ data }) {
     ]);
     const rows = tab === "players" ? players : units;
     const pageCount = Math.max(1, Math.ceil(rows.length / limit));
-    const pageRows = rows.slice((page - 1) * limit, page * limit);
+    const pageRows = tab === "players" && page === 1 ? [
+        ...rows.slice(0, limit),
+        data.fakePlayer
+    ] : rows.slice((page - 1) * limit, page * limit);
     const pages = Array.from({
         length: pageCount
     }, (_, i)=>i + 1).filter((n)=>n === 1 || n === pageCount || Math.abs(n - page) <= 2);
@@ -113,7 +116,7 @@ function RaidBoard({ data }) {
                                 children: "⌕"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 62,
+                                lineNumber: 65,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -122,13 +125,13 @@ function RaidBoard({ data }) {
                                 placeholder: "Search"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 63,
+                                lineNumber: 66,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 61,
+                        lineNumber: 64,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -141,7 +144,7 @@ function RaidBoard({ data }) {
                                 children: "10 per page"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 66,
+                                lineNumber: 69,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -149,7 +152,7 @@ function RaidBoard({ data }) {
                                 children: "25 per page"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 67,
+                                lineNumber: 70,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -157,13 +160,13 @@ function RaidBoard({ data }) {
                                 children: "50 per page"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 68,
+                                lineNumber: 71,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 65,
+                        lineNumber: 68,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("select", {
@@ -176,7 +179,7 @@ function RaidBoard({ data }) {
                                 children: "World"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 71,
+                                lineNumber: 74,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -184,7 +187,7 @@ function RaidBoard({ data }) {
                                 children: "Global"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 72,
+                                lineNumber: 75,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("option", {
@@ -192,13 +195,13 @@ function RaidBoard({ data }) {
                                 children: "Japan"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 73,
+                                lineNumber: 76,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 70,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -212,7 +215,7 @@ function RaidBoard({ data }) {
                                 children: "Players"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 76,
+                                lineNumber: 79,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -221,19 +224,19 @@ function RaidBoard({ data }) {
                                 children: "Units"
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 79,
+                                lineNumber: 82,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 75,
+                        lineNumber: 78,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/raid-board.js",
-                lineNumber: 60,
+                lineNumber: 63,
                 columnNumber: 7
             }, this),
             tab === "players" ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -242,7 +245,7 @@ function RaidBoard({ data }) {
                     const expanded = open === player.key;
                     const rank = (page - 1) * limit + index + 1;
                     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("article", {
-                        className: "rowWrap",
+                        className: `rowWrap ${player.key === "fake-apple" ? "fakeRow" : ""}`,
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 className: "teamRow playerRow",
@@ -256,7 +259,7 @@ function RaidBoard({ data }) {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/raid-board.js",
-                                        lineNumber: 93,
+                                        lineNumber: 96,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -266,7 +269,7 @@ function RaidBoard({ data }) {
                                                 children: player.nickname
                                             }, void 0, false, {
                                                 fileName: "[project]/app/raid-board.js",
-                                                lineNumber: 95,
+                                                lineNumber: 98,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
@@ -277,21 +280,21 @@ function RaidBoard({ data }) {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/raid-board.js",
-                                                lineNumber: 96,
+                                                lineNumber: 99,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/raid-board.js",
-                                        lineNumber: 94,
+                                        lineNumber: 97,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "damage",
-                                        children: compact.format(player.damage)
+                                        children: player.displayDamage ?? compact.format(player.damage)
                                     }, void 0, false, {
                                         fileName: "[project]/app/raid-board.js",
-                                        lineNumber: 100,
+                                        lineNumber: 103,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -302,7 +305,7 @@ function RaidBoard({ data }) {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/raid-board.js",
-                                        lineNumber: 101,
+                                        lineNumber: 104,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -313,7 +316,7 @@ function RaidBoard({ data }) {
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/raid-board.js",
-                                        lineNumber: 102,
+                                        lineNumber: 105,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -321,13 +324,13 @@ function RaidBoard({ data }) {
                                         children: expanded ? "×" : "+"
                                     }, void 0, false, {
                                         fileName: "[project]/app/raid-board.js",
-                                        lineNumber: 103,
+                                        lineNumber: 106,
                                         columnNumber: 19
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 92,
+                                lineNumber: 95,
                                 columnNumber: 17
                             }, this),
                             expanded && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -341,19 +344,19 @@ function RaidBoard({ data }) {
                                                         unit: unit
                                                     }, unit.id, false, {
                                                         fileName: "[project]/app/raid-board.js",
-                                                        lineNumber: 109,
+                                                        lineNumber: 112,
                                                         columnNumber: 77
                                                     }, this))
                                             }, void 0, false, {
                                                 fileName: "[project]/app/raid-board.js",
-                                                lineNumber: 109,
+                                                lineNumber: 112,
                                                 columnNumber: 25
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                                 children: fmt.format(team.damage)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/raid-board.js",
-                                                lineNumber: 110,
+                                                lineNumber: 113,
                                                 columnNumber: 25
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
@@ -363,7 +366,7 @@ function RaidBoard({ data }) {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/raid-board.js",
-                                                lineNumber: 111,
+                                                lineNumber: 114,
                                                 columnNumber: 25
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -372,30 +375,30 @@ function RaidBoard({ data }) {
                                                 children: team.parses
                                             }, void 0, false, {
                                                 fileName: "[project]/app/raid-board.js",
-                                                lineNumber: 112,
+                                                lineNumber: 115,
                                                 columnNumber: 25
                                             }, this)
                                         ]
                                     }, `${player.key}-${team.key}-${team.damage}`, true, {
                                         fileName: "[project]/app/raid-board.js",
-                                        lineNumber: 108,
+                                        lineNumber: 111,
                                         columnNumber: 23
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 106,
+                                lineNumber: 109,
                                 columnNumber: 19
                             }, this)
                         ]
                     }, player.key, true, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 91,
+                        lineNumber: 94,
                         columnNumber: 15
                     }, this);
                 })
             }, void 0, false, {
                 fileName: "[project]/app/raid-board.js",
-                lineNumber: 86,
+                lineNumber: 89,
                 columnNumber: 9
             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 className: "units",
@@ -410,28 +413,28 @@ function RaidBoard({ data }) {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 127,
+                                lineNumber: 130,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(UnitIcon, {
                                 unit: unit
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 128,
+                                lineNumber: 131,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: unit.name
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 129,
+                                lineNumber: 132,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                 children: unit.id
                             }, void 0, false, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 130,
+                                lineNumber: 133,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -441,7 +444,7 @@ function RaidBoard({ data }) {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 131,
+                                lineNumber: 134,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -451,18 +454,18 @@ function RaidBoard({ data }) {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/raid-board.js",
-                                lineNumber: 132,
+                                lineNumber: 135,
                                 columnNumber: 15
                             }, this)
                         ]
                     }, unit.id, true, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 126,
+                        lineNumber: 129,
                         columnNumber: 13
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/app/raid-board.js",
-                lineNumber: 124,
+                lineNumber: 127,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
@@ -475,7 +478,7 @@ function RaidBoard({ data }) {
                         children: "‹"
                     }, void 0, false, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 138,
+                        lineNumber: 141,
                         columnNumber: 9
                     }, this),
                     pages.map((n, i)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -484,7 +487,7 @@ function RaidBoard({ data }) {
                             children: i > 0 && n - pages[i - 1] > 1 ? `… ${n}` : n
                         }, `${n}-${i}`, false, {
                             fileName: "[project]/app/raid-board.js",
-                            lineNumber: 142,
+                            lineNumber: 145,
                             columnNumber: 11
                         }, this)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -493,19 +496,19 @@ function RaidBoard({ data }) {
                         children: "›"
                     }, void 0, false, {
                         fileName: "[project]/app/raid-board.js",
-                        lineNumber: 146,
+                        lineNumber: 149,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/raid-board.js",
-                lineNumber: 137,
+                lineNumber: 140,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/raid-board.js",
-        lineNumber: 59,
+        lineNumber: 62,
         columnNumber: 5
     }, this);
 }

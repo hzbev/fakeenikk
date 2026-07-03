@@ -121,6 +121,18 @@ select {
   display: grid;
 }
 
+.fakeRow .teamRow, .fakeRow .teamRow * {
+  color: #535961;
+}
+
+.fakeRow .best em, .fakeRow .parse, .fakeRow .plus {
+  color: #454b52;
+}
+
+.fakeRow .damage, .fakeRow .cp {
+  color: #5b626a;
+}
+
 .teamRow {
   cursor: pointer;
   grid-template-columns: 70px 330px minmax(130px, 1fr) 120px 160px 70px 28px;
