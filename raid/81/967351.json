@@ -4,102 +4,102 @@
   "total_damage": 0,
   "teams": [
     {
-      "damage": 3212454207,
-      "units": [
-        {
-          "slot": 1,
-          "tid": 328111,
-          "combat": 181243
-        },
-        {
-          "slot": 2,
-          "tid": 101804,
-          "combat": 164267
-        },
-        {
-          "slot": 3,
-          "tid": 331507,
-          "combat": 156634
-        },
-        {
-          "slot": 4,
-          "tid": 129010,
-          "combat": 163559
-        },
-        {
-          "slot": 5,
-          "tid": 116207,
-          "combat": 174276
-        }
-      ]
-    },
-    {
-      "damage": 4363034825,
+      "damage": 4468607474,
       "units": [
         {
           "slot": 1,
           "tid": 360003,
-          "combat": 154584
+          "combat": 154670
         },
         {
           "slot": 2,
           "tid": 357001,
-          "combat": 142494
+          "combat": 142582
         },
         {
           "slot": 3,
           "tid": 447110,
-          "combat": 184891
+          "combat": 184969
         },
         {
           "slot": 4,
           "tid": 201610,
-          "combat": 198942
+          "combat": 199027
         },
         {
           "slot": 5,
           "tid": 360101,
-          "combat": 136997
+          "combat": 137085
         }
       ]
     },
     {
-      "damage": 5198001645,
+      "damage": 5147872099,
       "units": [
         {
           "slot": 1,
           "tid": 203211,
-          "combat": 165341
+          "combat": 165413
         },
         {
           "slot": 2,
           "tid": 422307,
-          "combat": 171219
+          "combat": 171291
         },
         {
           "slot": 3,
           "tid": 235211,
-          "combat": 177587
+          "combat": 177663
         },
         {
           "slot": 4,
           "tid": 207501,
-          "combat": 166439
+          "combat": 166511
         },
         {
           "slot": 5,
-          "tid": 207404,
-          "combat": 133557
+          "tid": 328111,
+          "combat": 181268
         }
       ]
     },
     {
-      "damage": 8250571982,
+      "damage": 3041851632,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 108211,
+          "combat": 168775
+        },
+        {
+          "slot": 2,
+          "tid": 101804,
+          "combat": 164334
+        },
+        {
+          "slot": 3,
+          "tid": 331507,
+          "combat": 156723
+        },
+        {
+          "slot": 4,
+          "tid": 451504,
+          "combat": 153260
+        },
+        {
+          "slot": 5,
+          "tid": 129010,
+          "combat": 163633
+        }
+      ]
+    },
+    {
+      "damage": 8505756068,
       "units": [
         {
           "slot": 1,
           "tid": 451311,
-          "combat": 182991
+          "combat": 183069
         },
         {
           "slot": 2,
@@ -109,47 +109,47 @@
         {
           "slot": 3,
           "tid": 583504,
-          "combat": 168251
+          "combat": 168322
         },
         {
           "slot": 4,
-          "tid": 451504,
-          "combat": 150824
+          "tid": 217011,
+          "combat": 183019
         },
         {
           "slot": 5,
-          "tid": 217011,
-          "combat": 182942
+          "tid": 331604,
+          "combat": 149776
         }
       ]
     },
     {
-      "damage": 11160236494,
+      "damage": 11870832024,
       "units": [
         {
           "slot": 1,
           "tid": 235411,
-          "combat": 168726
+          "combat": 168800
         },
         {
           "slot": 2,
           "tid": 422507,
-          "combat": 168881
+          "combat": 174327
         },
         {
           "slot": 3,
           "tid": 235510,
-          "combat": 160018
+          "combat": 160085
         },
         {
           "slot": 4,
           "tid": 426211,
-          "combat": 182759
+          "combat": 182837
         },
         {
           "slot": 5,
           "tid": 301706,
-          "combat": 164719
+          "combat": 164740
         }
       ]
     }

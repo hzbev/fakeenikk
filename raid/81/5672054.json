@@ -1,155 +1,155 @@
 {
   "usn": 5672054,
   "nickname": "RANDOM",
-  "total_damage": 48354132616,
+  "total_damage": 49392007905,
   "teams": [
     {
-      "damage": 16311340633,
+      "damage": 16522117319,
       "units": [
         {
           "slot": 1,
           "tid": 301711,
-          "combat": 199606
+          "combat": 199688
         },
         {
           "slot": 2,
           "tid": 426211,
-          "combat": 221629
+          "combat": 221720
         },
         {
           "slot": 3,
           "tid": 235511,
-          "combat": 191574
+          "combat": 191653
         },
         {
           "slot": 4,
           "tid": 422511,
-          "combat": 232724
+          "combat": 232818
         },
         {
           "slot": 5,
           "tid": 235411,
-          "combat": 160577
+          "combat": 160647
         }
       ]
     },
     {
-      "damage": 4748293868,
+      "damage": 7728559957,
       "units": [
         {
           "slot": 1,
-          "tid": 328111,
-          "combat": 178204
+          "tid": 360009,
+          "combat": 176197
         },
         {
           "slot": 2,
-          "tid": 101811,
-          "combat": 185522
+          "tid": 583411,
+          "combat": 182629
         },
         {
           "slot": 3,
-          "tid": 331511,
-          "combat": 176252
+          "tid": 360108,
+          "combat": 163344
         },
         {
           "slot": 4,
-          "tid": 129011,
-          "combat": 178512
+          "tid": 583511,
+          "combat": 203295
         },
         {
           "slot": 5,
-          "tid": 301511,
-          "combat": 195773
+          "tid": 201611,
+          "combat": 208786
         }
       ]
     },
     {
-      "damage": 7183494469,
+      "damage": 6331081569,
       "units": [
         {
           "slot": 1,
-          "tid": 201611,
-          "combat": 208699
+          "tid": 239011,
+          "combat": 180735
         },
         {
           "slot": 2,
-          "tid": 360009,
-          "combat": 176124
+          "tid": 328311,
+          "combat": 185841
         },
         {
           "slot": 3,
           "tid": 447111,
-          "combat": 191991
+          "combat": 192070
         },
         {
           "slot": 4,
           "tid": 357011,
-          "combat": 195896
+          "combat": 202583
         },
         {
           "slot": 5,
-          "tid": 360108,
-          "combat": 163276
+          "tid": 328111,
+          "combat": 178276
         }
       ]
     },
     {
-      "damage": 8224122834,
+      "damage": 7495592796,
       "units": [
         {
           "slot": 1,
           "tid": 203211,
-          "combat": 188793
+          "combat": 188872
         },
         {
           "slot": 2,
           "tid": 422311,
-          "combat": 216294
+          "combat": 216384
         },
         {
           "slot": 3,
           "tid": 235211,
-          "combat": 177254
+          "combat": 177328
         },
         {
           "slot": 4,
-          "tid": 217011,
-          "combat": 174417
+          "tid": 207511,
+          "combat": 183705
         },
         {
           "slot": 5,
           "tid": 207411,
-          "combat": 177442
+          "combat": 177516
         }
       ]
     },
     {
-      "damage": 10653301341,
+      "damage": 10081076793,
       "units": [
         {
           "slot": 1,
           "tid": 433011,
-          "combat": 159216
+          "combat": 159284
         },
         {
           "slot": 2,
-          "tid": 583511,
-          "combat": 203209
+          "tid": 129011,
+          "combat": 178656
         },
         {
           "slot": 3,
           "tid": 331611,
-          "combat": 190671
+          "combat": 190751
         },
         {
           "slot": 4,
-          "tid": 583411,
-          "combat": 182553
+          "tid": 217011,
+          "combat": 174488
         },
         {
           "slot": 5,
           "tid": 451311,
-          "combat": 203790
+          "combat": 203874
         }
       ]
     }

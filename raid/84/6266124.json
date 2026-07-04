@@ -2,5 +2,36 @@
   "usn": 6266124,
   "nickname": "VENUS",
   "total_damage": 0,
-  "teams": []
+  "teams": [
+    {
+      "damage": 13577055,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 301705,
+          "combat": 504169
+        },
+        {
+          "slot": 2,
+          "tid": 433006,
+          "combat": 423360
+        },
+        {
+          "slot": 3,
+          "tid": 422511,
+          "combat": 623749
+        },
+        {
+          "slot": 4,
+          "tid": 201605,
+          "combat": 439300
+        },
+        {
+          "slot": 5,
+          "tid": 447109,
+          "combat": 587578
+        }
+      ]
+    }
+  ]
 }

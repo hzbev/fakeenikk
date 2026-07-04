@@ -1,10 +1,10 @@
 {
   "usn": 21670575,
   "nickname": "ほむっち",
-  "total_damage": 41062309954,
+  "total_damage": 0,
   "teams": [
     {
-      "damage": 4137482894,
+      "damage": 4153774765,
       "units": [
         {
           "slot": 1,
@@ -14,7 +14,7 @@
         {
           "slot": 2,
           "tid": 119211,
-          "combat": 152353
+          "combat": 152374
         },
         {
           "slot": 3,
@@ -34,42 +34,42 @@
       ]
     },
     {
-      "damage": 4066790615,
+      "damage": 4136718806,
       "units": [
         {
           "slot": 1,
-          "tid": 101808,
-          "combat": 182508
-        },
-        {
-          "slot": 2,
           "tid": 360005,
           "combat": 161705
         },
         {
+          "slot": 2,
+          "tid": 201611,
+          "combat": 179109
+        },
+        {
           "slot": 3,
           "tid": 360104,
-          "combat": 160262
+          "combat": 164787
         },
         {
           "slot": 4,
-          "tid": 357002,
-          "combat": 153117
+          "tid": 101808,
+          "combat": 182531
         },
         {
           "slot": 5,
-          "tid": 201611,
-          "combat": 179109
+          "tid": 357002,
+          "combat": 153117
         }
       ]
     },
     {
-      "damage": 7109229691,
+      "damage": 7180318345,
       "units": [
         {
           "slot": 1,
           "tid": 422306,
-          "combat": 179423
+          "combat": 180068
         },
         {
           "slot": 2,
@@ -94,7 +94,7 @@
       ]
     },
     {
-      "damage": 9132155577,
+      "damage": 9280491999,
       "units": [
         {
           "slot": 1,
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "damage": 15383071706,
+      "damage": 15698244747,
       "units": [
         {
           "slot": 1,
