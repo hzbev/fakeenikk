@@ -10,6 +10,7 @@ assert.equal(data.fakePlayer.nickname, "apple");
 assert(data.teams.length > 0);
 assert(data.teams.every((team) => team.parses > 1));
 assert(data.teams.every((team) => team.members.length > 0));
+assert(data.teams.every((team, index) => index === 0 || data.teams[index - 1].parses >= team.parses));
 assert(data.units.length === 50);
 assert(data.units.every((unit) => unit.pct > 0 && unit.pct <= 100));
 assert(data.players.every((player) => player.teams.every((team) => team.members.every((unit) => unit.badge && unit.element))));

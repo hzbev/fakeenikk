@@ -1,110 +1,80 @@
 {
   "usn": 20942440,
   "nickname": "大泪珠蝌蚪",
-  "total_damage": 42103605315,
+  "total_damage": 42887672538,
   "teams": [
     {
-      "damage": 4638983011,
+      "damage": 5538448563,
       "units": [
         {
           "slot": 1,
           "tid": 328111,
-          "combat": 177833
+          "combat": 177858
         },
         {
           "slot": 2,
           "tid": 328311,
-          "combat": 157768
+          "combat": 157791
         },
         {
           "slot": 3,
-          "tid": 451511,
-          "combat": 195208
+          "tid": 357011,
+          "combat": 184007
         },
         {
           "slot": 4,
-          "tid": 101811,
-          "combat": 196515
+          "tid": 328411,
+          "combat": 176059
         },
         {
           "slot": 5,
-          "tid": 116211,
-          "combat": 186463
+          "tid": 110211,
+          "combat": 153207
         }
       ]
     },
     {
-      "damage": 6571017232,
+      "damage": 4946847764,
       "units": [
         {
           "slot": 1,
-          "tid": 201611,
-          "combat": 199600
+          "tid": 360011,
+          "combat": 162172
         },
         {
           "slot": 2,
-          "tid": 360011,
-          "combat": 162150
+          "tid": 343111,
+          "combat": 147986
         },
         {
           "slot": 3,
           "tid": 447111,
-          "combat": 200928
+          "combat": 200957
         },
         {
           "slot": 4,
-          "tid": 357011,
-          "combat": 183957
+          "tid": 451111,
+          "combat": 190123
         },
         {
           "slot": 5,
           "tid": 360111,
-          "combat": 170951
+          "combat": 170976
         }
       ]
     },
     {
-      "damage": 6713043937,
+      "damage": 10165469552,
       "units": [
         {
           "slot": 1,
-          "tid": 203211,
-          "combat": 185665
-        },
-        {
-          "slot": 2,
           "tid": 422311,
           "combat": 184232
         },
         {
-          "slot": 3,
-          "tid": 235211,
-          "combat": 177841
-        },
-        {
-          "slot": 4,
-          "tid": 217011,
-          "combat": 173285
-        },
-        {
-          "slot": 5,
-          "tid": 207410,
-          "combat": 147969
-        }
-      ]
-    },
-    {
-      "damage": 9500215072,
-      "units": [
-        {
-          "slot": 1,
-          "tid": 433011,
-          "combat": 160802
-        },
-        {
           "slot": 2,
-          "tid": 583511,
-          "combat": 185268
+          "tid": 451511,
+          "combat": 195236
         },
         {
           "slot": 3,
@@ -113,23 +83,53 @@
         },
         {
           "slot": 4,
-          "tid": 583411,
-          "combat": 165969
+          "tid": 217011,
+          "combat": 173310
         },
         {
           "slot": 5,
           "tid": 331611,
-          "combat": 177301
+          "combat": 177326
         }
       ]
     },
     {
-      "damage": 13446766592,
+      "damage": 7463069984,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 201611,
+          "combat": 199629
+        },
+        {
+          "slot": 2,
+          "tid": 433011,
+          "combat": 160802
+        },
+        {
+          "slot": 3,
+          "tid": 583511,
+          "combat": 185296
+        },
+        {
+          "slot": 4,
+          "tid": 583411,
+          "combat": 165993
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 177866
+        }
+      ]
+    },
+    {
+      "damage": 13540257204,
       "units": [
         {
           "slot": 1,
           "tid": 301711,
-          "combat": 182394
+          "combat": 182419
         },
         {
           "slot": 2,
@@ -144,12 +144,12 @@
         {
           "slot": 4,
           "tid": 422511,
-          "combat": 190065
+          "combat": 190090
         },
         {
           "slot": 5,
           "tid": 426211,
-          "combat": 191738
+          "combat": 191765
         }
       ]
     }

@@ -1,70 +1,100 @@
 {
   "usn": 5216509,
   "nickname": "みや",
-  "total_damage": 45400632541,
+  "total_damage": 45932560730,
   "teams": [
     {
-      "damage": 4212719339,
+      "damage": 4249697676,
       "units": [
         {
           "slot": 1,
           "tid": 119211,
-          "combat": 164222
+          "combat": 164291
         },
         {
           "slot": 2,
           "tid": 258311,
-          "combat": 175829
+          "combat": 175902
         },
         {
           "slot": 3,
           "tid": 423411,
-          "combat": 199265
+          "combat": 199346
         },
         {
           "slot": 4,
           "tid": 327111,
-          "combat": 170835
+          "combat": 170905
         },
         {
           "slot": 5,
           "tid": 207410,
-          "combat": 167677
+          "combat": 167750
         }
       ]
     },
     {
-      "damage": 6778786031,
+      "damage": 6943286242,
       "units": [
         {
           "slot": 1,
           "tid": 203211,
-          "combat": 164679
+          "combat": 164750
         },
         {
           "slot": 2,
           "tid": 235211,
-          "combat": 171534
+          "combat": 171606
         },
         {
           "slot": 3,
           "tid": 422308,
-          "combat": 192882
+          "combat": 192962
         },
         {
           "slot": 4,
           "tid": 207509,
-          "combat": 187357
+          "combat": 187435
         },
         {
           "slot": 5,
           "tid": 328111,
-          "combat": 181021
+          "combat": 182177
         }
       ]
     },
     {
-      "damage": 10480303417,
+      "damage": 6819995911,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 360006,
+          "combat": 169849
+        },
+        {
+          "slot": 2,
+          "tid": 201611,
+          "combat": 207078
+        },
+        {
+          "slot": 3,
+          "tid": 447111,
+          "combat": 198870
+        },
+        {
+          "slot": 4,
+          "tid": 357011,
+          "combat": 198203
+        },
+        {
+          "slot": 5,
+          "tid": 360101,
+          "combat": 115340
+        }
+      ]
+    },
+    {
+      "damage": 10701903760,
       "units": [
         {
           "slot": 1,
@@ -74,27 +104,27 @@
         {
           "slot": 2,
           "tid": 583511,
-          "combat": 193452
+          "combat": 193535
         },
         {
           "slot": 3,
           "tid": 331605,
-          "combat": 155225
+          "combat": 155293
         },
         {
           "slot": 4,
           "tid": 451311,
-          "combat": 188774
+          "combat": 188854
         },
         {
           "slot": 5,
           "tid": 217011,
-          "combat": 186976
+          "combat": 187053
         }
       ]
     },
     {
-      "damage": 15839320569,
+      "damage": 15984097670,
       "units": [
         {
           "slot": 1,
@@ -103,53 +133,23 @@
         },
         {
           "slot": 2,
-          "tid": 426209,
-          "combat": 209101
+          "tid": 235511,
+          "combat": 177390
         },
         {
           "slot": 3,
-          "tid": 235511,
-          "combat": 177314
+          "tid": 426209,
+          "combat": 211610
         },
         {
           "slot": 4,
           "tid": 422511,
-          "combat": 223952
+          "combat": 224043
         },
         {
           "slot": 5,
           "tid": 235411,
-          "combat": 169453
-        }
-      ]
-    },
-    {
-      "damage": 6855923714,
-      "units": [
-        {
-          "slot": 1,
-          "tid": 360006,
-          "combat": 169778
-        },
-        {
-          "slot": 2,
-          "tid": 201611,
-          "combat": 206992
-        },
-        {
-          "slot": 3,
-          "tid": 447111,
-          "combat": 198787
-        },
-        {
-          "slot": 4,
-          "tid": 357011,
-          "combat": 197124
-        },
-        {
-          "slot": 5,
-          "tid": 360101,
-          "combat": 115287
+          "combat": 169526
         }
       ]
     }

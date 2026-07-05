@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import Link from "next/link";
 
 const fmt = new Intl.NumberFormat("en-US");
 const compact = new Intl.NumberFormat("en-US", { notation: "compact", maximumFractionDigits: 2 });
@@ -83,6 +84,9 @@ export default function RaidBoard({ data }) {
             Units
           </button>
         </div>
+        <Link className="navLink" href="/teams">
+          Teams
+        </Link>
       </section>
 
       {tab === "players" ? (

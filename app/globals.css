@@ -38,7 +38,7 @@ main {
   top: 0;
   z-index: 2;
   display: grid;
-  grid-template-columns: minmax(240px, 1fr) auto auto auto;
+  grid-template-columns: minmax(240px, 1fr) auto auto auto auto;
   gap: 14px;
   padding: 16px 20px 14px;
   background: #0d1011;
@@ -47,7 +47,8 @@ main {
 
 .search,
 select,
-.tabs {
+.tabs,
+.navLink {
   min-height: 50px;
   border: 0;
   border-radius: 8px;
@@ -106,6 +107,23 @@ select {
   color: var(--text);
 }
 
+.navLink {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 18px;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.teamsToolbar {
+  grid-template-columns: auto 1fr;
+  align-items: center;
+}
+
+.teamsToolbar strong {
+  font-size: 22px;
+}
+
 .table,
 .units {
   padding: 0 20px 32px;
@@ -122,6 +140,10 @@ select {
   background: transparent;
   color: var(--text);
   text-align: left;
+}
+
+article.teamRow {
+  cursor: default;
 }
 
 .fakeRow .teamRow,
