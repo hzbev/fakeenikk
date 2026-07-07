@@ -4,27 +4,27 @@
   "total_damage": 0,
   "teams": [
     {
-      "damage": 326758278,
+      "damage": 359116617,
       "units": [
         {
           "slot": 1,
           "tid": 201606,
-          "combat": 691083
+          "combat": 691155
         },
         {
           "slot": 2,
           "tid": 433002,
-          "combat": 610609
+          "combat": 610672
         },
         {
           "slot": 3,
           "tid": 447011,
-          "combat": 714195
+          "combat": 714339
         },
         {
           "slot": 4,
           "tid": 451303,
-          "combat": 641447
+          "combat": 641511
         },
         {
           "slot": 5,
