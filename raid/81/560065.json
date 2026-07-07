@@ -4,57 +4,87 @@
   "total_damage": 0,
   "teams": [
     {
-      "damage": 2593928426,
+      "damage": 2993637910,
       "units": [
         {
           "slot": 1,
-          "tid": 145011,
-          "combat": 178743
+          "tid": 108211,
+          "combat": 146125
         },
         {
           "slot": 2,
-          "tid": 119211,
-          "combat": 177925
+          "tid": 451411,
+          "combat": 171294
         },
         {
           "slot": 3,
-          "tid": 423411,
-          "combat": 212268
+          "tid": 101807,
+          "combat": 171232
         },
         {
           "slot": 4,
-          "tid": 327111,
-          "combat": 138857
+          "tid": 451111,
+          "combat": 243492
         },
         {
           "slot": 5,
-          "tid": 207406,
-          "combat": 108966
+          "tid": 129008,
+          "combat": 104735
         }
       ]
     },
     {
-      "damage": 3187208418,
+      "damage": 4410372270,
       "units": [
         {
           "slot": 1,
+          "tid": 433011,
+          "combat": 183728
+        },
+        {
+          "slot": 2,
+          "tid": 328111,
+          "combat": 164595
+        },
+        {
+          "slot": 3,
+          "tid": 583504,
+          "combat": 159490
+        },
+        {
+          "slot": 4,
+          "tid": 583405,
+          "combat": 109967
+        },
+        {
+          "slot": 5,
+          "tid": 235211,
+          "combat": 167992
+        }
+      ]
+    },
+    {
+      "damage": 4351370401,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 360004,
+          "combat": 152503
+        },
+        {
+          "slot": 2,
           "tid": 201611,
           "combat": 186627
         },
         {
-          "slot": 2,
-          "tid": 357004,
-          "combat": 138624
-        },
-        {
           "slot": 3,
-          "tid": 235211,
-          "combat": 167992
+          "tid": 447111,
+          "combat": 222768
         },
         {
           "slot": 4,
-          "tid": 360004,
-          "combat": 152503
+          "tid": 357004,
+          "combat": 138624
         },
         {
           "slot": 5,
@@ -64,12 +94,12 @@
       ]
     },
     {
-      "damage": 5941474065,
+      "damage": 8819119373,
       "units": [
         {
           "slot": 1,
-          "tid": 328111,
-          "combat": 164549
+          "tid": 217011,
+          "combat": 154148
         },
         {
           "slot": 2,
@@ -78,58 +108,28 @@
         },
         {
           "slot": 3,
-          "tid": 447111,
-          "combat": 222768
-        },
-        {
-          "slot": 4,
-          "tid": 331606,
-          "combat": 147274
-        },
-        {
-          "slot": 5,
-          "tid": 101806,
-          "combat": 168670
-        }
-      ]
-    },
-    {
-      "damage": 6414340353,
-      "units": [
-        {
-          "slot": 1,
           "tid": 451311,
           "combat": 175306
         },
         {
-          "slot": 2,
-          "tid": 433011,
-          "combat": 183676
-        },
-        {
-          "slot": 3,
-          "tid": 583504,
-          "combat": 159490
-        },
-        {
           "slot": 4,
-          "tid": 451508,
-          "combat": 183296
+          "tid": 451511,
+          "combat": 195819
         },
         {
           "slot": 5,
-          "tid": 217011,
-          "combat": 154148
+          "tid": 331606,
+          "combat": 147274
         }
       ]
     },
     {
-      "damage": 14902674594,
+      "damage": 14855925921,
       "units": [
         {
           "slot": 1,
           "tid": 301711,
-          "combat": 190534
+          "combat": 190586
         },
         {
           "slot": 2,

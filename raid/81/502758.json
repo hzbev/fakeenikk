@@ -1,10 +1,10 @@
 {
   "usn": 502758,
   "nickname": "MSJ",
-  "total_damage": 48234970222,
+  "total_damage": 48986606514,
   "teams": [
     {
-      "damage": 5489619922,
+      "damage": 5453863383,
       "units": [
         {
           "slot": 1,
@@ -29,17 +29,17 @@
         {
           "slot": 5,
           "tid": 585111,
-          "combat": 193181
+          "combat": 193308
         }
       ]
     },
     {
-      "damage": 7447753361,
+      "damage": 7666224359,
       "units": [
         {
           "slot": 1,
           "tid": 203211,
-          "combat": 179152
+          "combat": 173572
         },
         {
           "slot": 2,
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "damage": 8225596298,
+      "damage": 8505230356,
       "units": [
         {
           "slot": 1,
@@ -79,22 +79,22 @@
         {
           "slot": 3,
           "tid": 583511,
-          "combat": 227034
+          "combat": 227185
         },
         {
           "slot": 4,
           "tid": 583404,
-          "combat": 182180
+          "combat": 182295
         },
         {
           "slot": 5,
-          "tid": 360102,
-          "combat": 148970
+          "tid": 360103,
+          "combat": 151882
         }
       ]
     },
     {
-      "damage": 9916035979,
+      "damage": 10008242713,
       "units": [
         {
           "slot": 1,
@@ -124,12 +124,12 @@
       ]
     },
     {
-      "damage": 15922385191,
+      "damage": 16119466232,
       "units": [
         {
           "slot": 1,
           "tid": 301711,
-          "combat": 182166
+          "combat": 172241
         },
         {
           "slot": 2,
@@ -149,7 +149,7 @@
         {
           "slot": 5,
           "tid": 235411,
-          "combat": 168198
+          "combat": 172506
         }
       ]
     }

@@ -1,35 +1,155 @@
 {
   "usn": 72684608,
-  "nickname": "復活のパズ",
-  "total_damage": 0,
+  "nickname": "スマホの可能性",
+  "total_damage": 50439734181,
   "teams": [
     {
-      "damage": 359116617,
+      "damage": 17252235991,
       "units": [
         {
           "slot": 1,
           "tid": 426211,
-          "combat": 1832500
+          "combat": 228292
         },
         {
           "slot": 2,
           "tid": 301711,
-          "combat": 1562854
+          "combat": 185273
         },
         {
           "slot": 3,
-          "tid": 235510,
-          "combat": 1416793
+          "tid": 235511,
+          "combat": 171074
         },
         {
           "slot": 4,
           "tid": 422511,
-          "combat": 1983976
+          "combat": 244808
         },
         {
           "slot": 5,
           "tid": 235411,
-          "combat": 1399488
+          "combat": 166780
+        }
+      ]
+    },
+    {
+      "damage": 4580614878,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 119211,
+          "combat": 170490
+        },
+        {
+          "slot": 2,
+          "tid": 258311,
+          "combat": 189978
+        },
+        {
+          "slot": 3,
+          "tid": 423411,
+          "combat": 185328
+        },
+        {
+          "slot": 4,
+          "tid": 327111,
+          "combat": 183989
+        },
+        {
+          "slot": 5,
+          "tid": 207409,
+          "combat": 173513
+        }
+      ]
+    },
+    {
+      "damage": 6582809997,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 447111,
+          "combat": 207580
+        },
+        {
+          "slot": 2,
+          "tid": 201611,
+          "combat": 196658
+        },
+        {
+          "slot": 3,
+          "tid": 360105,
+          "combat": 166253
+        },
+        {
+          "slot": 4,
+          "tid": 357011,
+          "combat": 199413
+        },
+        {
+          "slot": 5,
+          "tid": 360007,
+          "combat": 165094
+        }
+      ]
+    },
+    {
+      "damage": 9213675844,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 328111,
+          "combat": 164830
+        },
+        {
+          "slot": 2,
+          "tid": 583511,
+          "combat": 231819
+        },
+        {
+          "slot": 3,
+          "tid": 583411,
+          "combat": 195141
+        },
+        {
+          "slot": 4,
+          "tid": 235211,
+          "combat": 170680
+        },
+        {
+          "slot": 5,
+          "tid": 433011,
+          "combat": 190963
+        }
+      ]
+    },
+    {
+      "damage": 11576818000,
+      "units": [
+        {
+          "slot": 1,
+          "tid": 422311,
+          "combat": 217747
+        },
+        {
+          "slot": 2,
+          "tid": 451511,
+          "combat": 172758
+        },
+        {
+          "slot": 3,
+          "tid": 451311,
+          "combat": 214351
+        },
+        {
+          "slot": 4,
+          "tid": 217011,
+          "combat": 165732
+        },
+        {
+          "slot": 5,
+          "tid": 331610,
+          "combat": 173360
         }
       ]
     }
